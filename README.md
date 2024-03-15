@@ -3,7 +3,7 @@
 ---
 
 ## Description
-This project has UI in jsx to take grievance report as input and displays the output as the category of the department to which the report should be send to. We have trained on the given data and fine tuned the Gemini Pro model by Google for translation, summarization and classification.
+This project has UI in jsx to take grievance as input and display the output as the category of the department to which the grievance should be send to. We have trained on the given data and fine tuned the Gemini Pro model by Google and facebook/bart-large-mnli (zero shot classifier) for translation, summarization and classification.
 
 ## Setup Instructions
 

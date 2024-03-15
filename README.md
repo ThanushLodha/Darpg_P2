@@ -44,9 +44,3 @@ This project has UI in jsx to take grievance as input and display the output as 
 To run the full application, you need to run both the frontend and backend servers simultaneously.
 
 Follow the instructions above to start both the frontend and backend servers.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-Feel free to extend this README with additional information about your project as needed.

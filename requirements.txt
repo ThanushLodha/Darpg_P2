@@ -1,0 +1,8 @@
+Flask
+transformers
+flask-cors
+python-dotenv
+google
+google-generativeai
+json
+pandas

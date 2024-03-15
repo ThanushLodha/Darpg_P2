@@ -70,7 +70,7 @@ const Pricing = () => {
           <textarea
             type="text"
             id="large-input"
-            className="block w-full p-4 h-[100px] text-white border border-gray-300 rounded-lg text-base focus:border-none"
+            className="block w-full p-4 h-[500px] text-white border border-gray-300 rounded-lg text-base focus:border-none"
             value={inputValue}
             onChange={handleChange}
             required

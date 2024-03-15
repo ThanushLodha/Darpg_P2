@@ -1,0 +1,1054 @@
+[
+    {
+        "parent": "Deficiency in treatment",
+        "child": []
+    },
+    {
+        "parent": "Non-availability of appointment",
+        "child": []
+    },
+    {
+        "parent": "Long waiting period",
+        "child": []
+    },
+    {
+        "parent": "Misbehaviour by staff",
+        "child": []
+    },
+    {
+        "parent": "Insufficient space in waiting area",
+        "child": []
+    },
+    {
+        "parent": "Lack of facilities in OPD",
+        "child": []
+    },
+    {
+        "parent": "Financial difficulties",
+        "child": []
+    },
+    {
+        "parent": "Other",
+        "child": []
+    },
+    {
+        "parent": "Counselling/ Admission related matters",
+        "child": []
+    },
+    {
+        "parent": "AIIMS exam related matters",
+        "child": []
+    },
+    {
+        "parent": "Fees related matters",
+        "child": []
+    },
+    {
+        "parent": "Regular appointment",
+        "child": []
+    },
+    {
+        "parent": "Contractual/ Outsourced",
+        "child": []
+    },
+    {
+        "parent": "Recruitment exam related",
+        "child": []
+    },
+    {
+        "parent": "Pre Tender Grievances",
+        "child": []
+    },
+    {
+        "parent": "Post Tender Grievances",
+        "child": []
+    },
+    {
+        "parent": "Local Purchase",
+        "child": []
+    },
+    {
+        "parent": "GeM",
+        "child": []
+    },
+    {
+        "parent": "Delhi",
+        "child": [
+            "CBI works (Housing) , Maidangarhi, Delhi",
+            "ESIC Dispensary, NIA Karampura, Delhi",
+            "IOC Complex, Lodhi Road New Delhi,",
+            "Bhikaji Cama Place New Delhi",
+            "Okhla New Delhi ",
+            "Pushp Vihar New Delhi",
+            "Pragati Vihar New Delhi",
+            "CGO Complex New Delhi",
+            "ITPO Pragati Maidan-New Delhi,",
+            "PTS1 Jharodakalan",
+            "NICD to NCDC at 22 , Sham Nath Marg, New Delhi",
+            "New MP Bhawan",
+            "International craft complex vasant kunj, ",
+            "NIA Residential complex,",
+            "vanijya bhawan",
+            "NIT Narela",
+            "NIDM Work,",
+            "NTRO at Ayanagr,",
+            "CISF Maidangarhi",
+            "Security police lines Bapudham",
+            "CISF saket",
+            "Narouji Nagar",
+            "Netaji Nagar ",
+            "Sarojini Nagar",
+            "Bharat vandana park - New Delhi ",
+            "Sports Injury Centre",
+            "Kaushal Bhawan",
+            "WHO",
+            "East Kidwai Nagar",
+            "ASI Works New Delhi",
+            "NATGRID Works",
+            "Residential cum training complex for Special Protection group,(SPG) , (Ph-l) & Ph-II sector-21 Dwarka,new Delhi ",
+            "Sri Venkateshwara College, Dhaula Kuan",
+            "Repairing and waterproofing of toilets and other works for working Women's hostel, Jasola",
+            "Additional Floor for IPO at Dwaraka",
+            "Income Tax, Saket",
+            "CBSE Works at Dwaraka",
+            "IIT Delhi"
+        ]
+    },
+    {
+        "parent": "UP",
+        "child": [
+            "Kanpur",
+            "Maharajganj",
+            "varanasi",
+            "Ambedkar Nagar",
+            "Shrawasti",
+            "Bahraich",
+            "Raebareilly",
+            "Allahabad",
+            "Lucknow",
+            "Greater Noida",
+            "Ghaziabad",
+            "Baghpat",
+            "Meerut",
+            "Jhansi",
+            "NOIDA"
+        ]
+    },
+    {
+        "parent": "Rajasthan",
+        "child": [
+            "Jaipur",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Himachal Pradesh",
+        "child": [
+            "Mandi",
+            "Bilaspur",
+            "Chamba",
+            "Solan"
+        ]
+    },
+    {
+        "parent": "Chandigarh",
+        "child": [
+            "PGI Chandigarh"
+        ]
+    },
+    {
+        "parent": "Punjab",
+        "child": [
+            "Patiala",
+            "Mohali",
+            "Ropar",
+            "Amritsar"
+        ]
+    },
+    {
+        "parent": "Haryana",
+        "child": [
+            "Sonepat",
+            "Panchkula",
+            "Gurugram"
+        ]
+    },
+    {
+        "parent": "Uttrakhand",
+        "child": []
+    },
+    {
+        "parent": "Maharashtra",
+        "child": [
+            "ALL Works except BSF works chakur Maharashtra",
+            "BSF works chakur Maharashtra"
+        ]
+    },
+    {
+        "parent": "Goa",
+        "child": []
+    },
+    {
+        "parent": "Gujarat ",
+        "child": []
+    },
+    {
+        "parent": "Madhya Pradesh",
+        "child": []
+    },
+    {
+        "parent": "Tamilnadu",
+        "child": [
+            "Chennai"
+        ]
+    },
+    {
+        "parent": "Karnataka",
+        "child": [
+            "Bangalore"
+        ]
+    },
+    {
+        "parent": "Andaman and Nicobar",
+        "child": [
+            "555 housing units for EWS under PMAY at port blair"
+        ]
+    },
+    {
+        "parent": "Kerala",
+        "child": [
+            "Kochi"
+        ]
+    },
+    {
+        "parent": "Andhra Pradesh",
+        "child": [
+            "Vijaywada",
+            "Visakhapatnam",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Telangana",
+        "child": [
+            "Hyderabad"
+        ]
+    },
+    {
+        "parent": "BIHAR",
+        "child": []
+    },
+    {
+        "parent": "Jharkhand",
+        "child": []
+    },
+    {
+        "parent": "Odisha",
+        "child": [
+            "All Works except PMGSY WORKS ORRISA",
+            "PMGSY WORKS ORRISA"
+        ]
+    },
+    {
+        "parent": "West Bengal",
+        "child": []
+    },
+    {
+        "parent": "Assam",
+        "child": [
+            "SSB Mangaldoi(1B)",
+            "ISI Works, Tezpur",
+            "M.O.T Washing Machine"
+        ]
+    },
+    {
+        "parent": "Manipur",
+        "child": [
+            "Res. BSF work, Manipur",
+            "National Sports University at Koutruk-Senjam, Imphal, Manipur. Hostel Blocks"
+        ]
+    },
+    {
+        "parent": "Tripura",
+        "child": [
+            "PMGSY Works,Tripura",
+            "UD (Tripura)",
+            "Slum Development at Dharmanagar",
+            "Town Hall at Bishalgarh",
+            "Tripura Institute of Technology, Agartala, ",
+            "IBBF Tripura "
+        ]
+    },
+    {
+        "parent": "Sikkim",
+        "child": [
+            "Textile Works, Sikkim",
+            " NIELIT, Works Gangtok/ Pakyong",
+            "19th Bn Hqtr. SSB at Geyzing."
+        ]
+    },
+    {
+        "parent": "Meghalaya",
+        "child": [
+            "Multi story commercial complex at Akhronga, tura",
+            "Polo Market",
+            "IBBF Meghalaya "
+        ]
+    },
+    {
+        "parent": "Mizoram",
+        "child": [
+            "IBBF DTR, Mizoram"
+        ]
+    },
+    {
+        "parent": "Infrastructure Zone",
+        "child": []
+    },
+    {
+        "parent": "Institute for Security & Law Enforcement at Addu City, Maldives",
+        "child": []
+    },
+    {
+        "parent": "Kolkata",
+        "child": [
+            "Kolkata Project"
+        ]
+    },
+    {
+        "parent": "Durgapur",
+        "child": []
+    },
+    {
+        "parent": "Bhubaneswar ",
+        "child": []
+    },
+    {
+        "parent": "Duburi,Jajapur",
+        "child": []
+    },
+    {
+        "parent": "Rourkela",
+        "child": []
+    },
+    {
+        "parent": "Patna",
+        "child": []
+    },
+    {
+        "parent": "Ranchi",
+        "child": []
+    },
+    {
+        "parent": "Bokaro ",
+        "child": []
+    },
+    {
+        "parent": "Bhilai ",
+        "child": []
+    },
+    {
+        "parent": "Bastar,Nagarnar",
+        "child": []
+    },
+    {
+        "parent": "Sagar",
+        "child": []
+    },
+    {
+        "parent": "Ahmedabad",
+        "child": []
+    },
+    {
+        "parent": "Vadodara",
+        "child": []
+    },
+    {
+        "parent": "Pune",
+        "child": []
+    },
+    {
+        "parent": "Mumbai",
+        "child": []
+    },
+    {
+        "parent": "Nagpur",
+        "child": []
+    },
+    {
+        "parent": "Dehradun",
+        "child": []
+    },
+    {
+        "parent": "Varanasi",
+        "child": []
+    },
+    {
+        "parent": "Bangalore",
+        "child": []
+    },
+    {
+        "parent": "Chennai",
+        "child": []
+    },
+    {
+        "parent": "Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "Vizag",
+        "child": []
+    },
+    {
+        "parent": "HPIL (Hemisphere properties India Limited)",
+        "child": []
+    },
+    {
+        "parent": "Others",
+        "child": []
+    },
+    {
+        "parent": "Telecast/Broadcast of Events/ Serials/programmes on DD/AIR",
+        "child": []
+    },
+    {
+        "parent": "Relating to story or facts shown in serials",
+        "child": []
+    },
+    {
+        "parent": "Language used in News Programmes on DD/AIR",
+        "child": []
+    },
+    {
+        "parent": "Non Coverage of certain area/language in programmes/news telecast in DD/AIR",
+        "child": []
+    },
+    {
+        "parent": "Miscellaneous",
+        "child": []
+    },
+    {
+        "parent": "Delay in Issuing Registration Certificate",
+        "child": []
+    },
+    {
+        "parent": "No Fixed Timeline for Registration Process",
+        "child": []
+    },
+    {
+        "parent": "Reason for Issuing Discrepancy Letter (DL)",
+        "child": []
+    },
+    {
+        "parent": "Transfer",
+        "child": []
+    },
+    {
+        "parent": "Posting",
+        "child": []
+    },
+    {
+        "parent": "Medical",
+        "child": []
+    },
+    {
+        "parent": "Allowances",
+        "child": []
+    },
+    {
+        "parent": "Officers ",
+        "child": []
+    },
+    {
+        "parent": "PBORS",
+        "child": []
+    },
+    {
+        "parent": "Defence Civilians",
+        "child": []
+    },
+    {
+        "parent": "IDS",
+        "child": []
+    },
+    {
+        "parent": "AO",
+        "child": []
+    },
+    {
+        "parent": "Sr. AO",
+        "child": []
+    },
+    {
+        "parent": "AAO",
+        "child": []
+    },
+    {
+        "parent": "Relaxation for appointment on compassionate ground",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Other matters of Compassionate Appointment",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Skill Training",
+        "child": []
+    },
+    {
+        "parent": "Bhilai Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Durgapur Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Alloy Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Rourkela Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Bokaro Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "IISCO Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Central Marketing Office",
+        "child": []
+    },
+    {
+        "parent": "Salem Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Visvesvaraya Iron and Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Ranchi Units",
+        "child": []
+    },
+    {
+        "parent": "Kirandul Complex",
+        "child": []
+    },
+    {
+        "parent": "Bacheli Complex",
+        "child": []
+    },
+    {
+        "parent": "Donimalai Iron Ore/Mine",
+        "child": []
+    },
+    {
+        "parent": "Diamond Mining Project, Panna",
+        "child": []
+    },
+    {
+        "parent": "Sponge Iron Unit, Paloncha",
+        "child": []
+    },
+    {
+        "parent": "NISP, Nagarnar",
+        "child": []
+    },
+    {
+        "parent": "Bharat Coking Coal Limited BCCL",
+        "child": []
+    },
+    {
+        "parent": "Central Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Mahanadi Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Northern Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Western Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Southeastern Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Eastern Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "coal Mine Plan and Design Institute",
+        "child": []
+    },
+    {
+        "parent": "Bengal Chemicals and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "Hindustan Antibiotics Limited",
+        "child": []
+    },
+    {
+        "parent": "Indian Drugs and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "Karnataka Antibiotics and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "Rajasthan Drugs and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "NIPER Mohali",
+        "child": []
+    },
+    {
+        "parent": "NIPER Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "NIPER Guwahati",
+        "child": []
+    },
+    {
+        "parent": "NIPER Raebareli",
+        "child": []
+    },
+    {
+        "parent": "NIPER Ahmedabad",
+        "child": []
+    },
+    {
+        "parent": "NIPER Hajipur",
+        "child": []
+    },
+    {
+        "parent": "NIPER Kolkata",
+        "child": []
+    },
+    {
+        "parent": "Complaints received from Third Party",
+        "child": []
+    },
+    {
+        "parent": "Complaints received from General Public",
+        "child": []
+    },
+    {
+        "parent": "Dr. Rajendra Prasad Central Agricultural University, Pusa (Bihar)",
+        "child": []
+    },
+    {
+        "parent": "Rani Laxmi Bai Central Agricultural University, Jhansi",
+        "child": []
+    },
+    {
+        "parent": "Central Agricultural University Imphal",
+        "child": []
+    },
+    {
+        "parent": "Appointment of VCs, Registrar, Deans, Nominees of Visitor and Representatives of Secretary (DARE)",
+        "child": []
+    },
+    {
+        "parent": "Appointment of Chairperson, Members",
+        "child": []
+    },
+    {
+        "parent": "Other staff matters",
+        "child": []
+    },
+    {
+        "parent": "ICAR (Indian Council of Agricultural Research)",
+        "child": []
+    },
+    {
+        "parent": "ASRB (Agricultural Scientist Recruitment Board)",
+        "child": []
+    },
+    {
+        "parent": "Chloralkali",
+        "child": []
+    },
+    {
+        "parent": "Dyes  and Dye Intermediate",
+        "child": []
+    },
+    {
+        "parent": "Fertilizer",
+        "child": []
+    },
+    {
+        "parent": "Oil Refineries",
+        "child": []
+    },
+    {
+        "parent": "Pesticides",
+        "child": []
+    },
+    {
+        "parent": "Petro-Chemicals",
+        "child": []
+    },
+    {
+        "parent": "Pharmaceuticals",
+        "child": []
+    },
+    {
+        "parent": "Paints  and  Enamel",
+        "child": []
+    },
+    {
+        "parent": "All industries of Chemical in nature (Organic and In-organic)",
+        "child": []
+    },
+    {
+        "parent": "Copper",
+        "child": []
+    },
+    {
+        "parent": "Zinc",
+        "child": []
+    },
+    {
+        "parent": "Aluminium",
+        "child": []
+    },
+    {
+        "parent": "Integrated Iron  and  Steel",
+        "child": []
+    },
+    {
+        "parent": "Dust (PM) Emitting Industries",
+        "child": []
+    },
+    {
+        "parent": "Mining",
+        "child": []
+    },
+    {
+        "parent": "Cement",
+        "child": []
+    },
+    {
+        "parent": "Thermal Power Plants",
+        "child": []
+    },
+    {
+        "parent": "Coal Mining",
+        "child": []
+    },
+    {
+        "parent": "Non-Coal Mining",
+        "child": []
+    },
+    {
+        "parent": "Asbestos",
+        "child": []
+    },
+    {
+        "parent": "Sugar",
+        "child": []
+    },
+    {
+        "parent": "Distilleries",
+        "child": []
+    },
+    {
+        "parent": "Pulp  and  Paper",
+        "child": []
+    },
+    {
+        "parent": "Textiles",
+        "child": []
+    },
+    {
+        "parent": "Food  and  Beverages",
+        "child": []
+    },
+    {
+        "parent": "Soft Drinks Policies",
+        "child": []
+    },
+    {
+        "parent": "Dairies",
+        "child": []
+    },
+    {
+        "parent": "Tanneries",
+        "child": []
+    },
+    {
+        "parent": "Slaughter Houses",
+        "child": []
+    },
+    {
+        "parent": "Foundry and Furnaces",
+        "child": []
+    },
+    {
+        "parent": "Stone Crushers",
+        "child": []
+    },
+    {
+        "parent": "Hot Mix Plants",
+        "child": []
+    },
+    {
+        "parent": "Brick Kilns",
+        "child": []
+    },
+    {
+        "parent": "Rice Mills  and  Small Scale Industries",
+        "child": []
+    },
+    {
+        "parent": "Siting Policies  and  Technology Development",
+        "child": []
+    },
+    {
+        "parent": "17 Categories of Industries",
+        "child": []
+    },
+    {
+        "parent": "Red Categories of Industries",
+        "child": []
+    },
+    {
+        "parent": "Categorization of Industries",
+        "child": []
+    },
+    {
+        "parent": "Review of Standards",
+        "child": []
+    },
+    {
+        "parent": "On-line Installations",
+        "child": []
+    },
+    {
+        "parent": "Grossly Polluting Industries (other than Ganga)",
+        "child": []
+    },
+    {
+        "parent": "Critically Polluted Industrial Clusters",
+        "child": []
+    },
+    {
+        "parent": "CETPs",
+        "child": []
+    },
+    {
+        "parent": "Vigilance and Directions",
+        "child": []
+    },
+    {
+        "parent": "Environmental Clearances",
+        "child": []
+    },
+    {
+        "parent": "Ecomark Scheme",
+        "child": []
+    },
+    {
+        "parent": "NET Exam",
+        "child": []
+    },
+    {
+        "parent": "NET Result",
+        "child": []
+    },
+    {
+        "parent": "JRF Award letter",
+        "child": []
+    },
+    {
+        "parent": "Monthly Stipend",
+        "child": []
+    },
+    {
+        "parent": "House Rent Allowance",
+        "child": []
+    },
+    {
+        "parent": "Annual Contingency",
+        "child": []
+    },
+    {
+        "parent": "JRF to SRF upgradation",
+        "child": []
+    },
+    {
+        "parent": "PhD Registration",
+        "child": []
+    },
+    {
+        "parent": "Leave",
+        "child": []
+    },
+    {
+        "parent": "Transfer of fellowship",
+        "child": []
+    },
+    {
+        "parent": "Change of Research Topic",
+        "child": []
+    },
+    {
+        "parent": "Change of supervisor",
+        "child": []
+    },
+    {
+        "parent": "Termination of Fellowship",
+        "child": []
+    },
+    {
+        "parent": "Any other issue",
+        "child": []
+    },
+    {
+        "parent": "JRF-NET Joining",
+        "child": []
+    },
+    {
+        "parent": "JRF/SRF continuation",
+        "child": []
+    },
+    {
+        "parent": "JRF-GATE Joining",
+        "child": []
+    },
+    {
+        "parent": "JRF-Award letter",
+        "child": []
+    },
+    {
+        "parent": "House Rent Allowance (HRA)",
+        "child": []
+    },
+    {
+        "parent": "SRF-Direct Result",
+        "child": []
+    },
+    {
+        "parent": "SRF-Direct Joining",
+        "child": []
+    },
+    {
+        "parent": "SRF-Award letter",
+        "child": []
+    },
+    {
+        "parent": "SRF continuation",
+        "child": []
+    },
+    {
+        "parent": "RA Result",
+        "child": []
+    },
+    {
+        "parent": "RA-Joining",
+        "child": []
+    },
+    {
+        "parent": "RA-Award letter",
+        "child": []
+    },
+    {
+        "parent": "RA continuation",
+        "child": []
+    },
+    {
+        "parent": "SRA Result",
+        "child": []
+    },
+    {
+        "parent": "SRA-Joining",
+        "child": []
+    },
+    {
+        "parent": "SRA-Award letter",
+        "child": []
+    },
+    {
+        "parent": "SRA continuation",
+        "child": []
+    },
+    {
+        "parent": "PDF Result",
+        "child": []
+    },
+    {
+        "parent": "PDF-Joining",
+        "child": []
+    },
+    {
+        "parent": "PDF-Award letter",
+        "child": []
+    },
+    {
+        "parent": "PDF continuation",
+        "child": []
+    },
+    {
+        "parent": "Status of New Proposal",
+        "child": []
+    },
+    {
+        "parent": "Grant claim bill status",
+        "child": []
+    },
+    {
+        "parent": "Grant-in-aid bill status",
+        "child": []
+    },
+    {
+        "parent": "Renewal of Project Grant",
+        "child": []
+    },
+    {
+        "parent": "New Project proposal Status",
+        "child": []
+    },
+    {
+        "parent": "New Emeritus proposal Status",
+        "child": []
+    },
+    {
+        "parent": "CSIR Headquarters and units",
+        "child": []
+    },
+    {
+        "parent": "Labs and institutes",
+        "child": []
+    },
+    {
+        "parent": "ACSIR",
+        "child": []
+    }
+]

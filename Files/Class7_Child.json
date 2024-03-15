@@ -1,0 +1,504 @@
+[
+    {
+        "parent": "CBI works (Housing) , Maidangarhi, Delhi",
+        "child": []
+    },
+    {
+        "parent": "ESIC Dispensary, NIA Karampura, Delhi",
+        "child": []
+    },
+    {
+        "parent": "IOC Complex, Lodhi Road New Delhi,",
+        "child": []
+    },
+    {
+        "parent": "Bhikaji Cama Place New Delhi",
+        "child": []
+    },
+    {
+        "parent": "Okhla New Delhi ",
+        "child": []
+    },
+    {
+        "parent": "Pushp Vihar New Delhi",
+        "child": []
+    },
+    {
+        "parent": "Pragati Vihar New Delhi",
+        "child": []
+    },
+    {
+        "parent": "CGO Complex New Delhi",
+        "child": []
+    },
+    {
+        "parent": "ITPO Pragati Maidan-New Delhi,",
+        "child": []
+    },
+    {
+        "parent": "PTS1 Jharodakalan",
+        "child": []
+    },
+    {
+        "parent": "NICD to NCDC at 22 , Sham Nath Marg, New Delhi",
+        "child": []
+    },
+    {
+        "parent": "New MP Bhawan",
+        "child": []
+    },
+    {
+        "parent": "International craft complex vasant kunj, ",
+        "child": []
+    },
+    {
+        "parent": "NIA Residential complex,",
+        "child": []
+    },
+    {
+        "parent": "vanijya bhawan",
+        "child": []
+    },
+    {
+        "parent": "NIT Narela",
+        "child": []
+    },
+    {
+        "parent": "NIDM Work,",
+        "child": []
+    },
+    {
+        "parent": "NTRO at Ayanagr,",
+        "child": []
+    },
+    {
+        "parent": "CISF Maidangarhi",
+        "child": []
+    },
+    {
+        "parent": "Security police lines Bapudham",
+        "child": []
+    },
+    {
+        "parent": "CISF saket",
+        "child": []
+    },
+    {
+        "parent": "Narouji Nagar",
+        "child": []
+    },
+    {
+        "parent": "Netaji Nagar ",
+        "child": []
+    },
+    {
+        "parent": "Sarojini Nagar",
+        "child": []
+    },
+    {
+        "parent": "Bharat vandana park - New Delhi ",
+        "child": []
+    },
+    {
+        "parent": "Sports Injury Centre",
+        "child": []
+    },
+    {
+        "parent": "Kaushal Bhawan",
+        "child": []
+    },
+    {
+        "parent": "WHO",
+        "child": []
+    },
+    {
+        "parent": "East Kidwai Nagar",
+        "child": []
+    },
+    {
+        "parent": "ASI Works New Delhi",
+        "child": []
+    },
+    {
+        "parent": "NATGRID Works",
+        "child": []
+    },
+    {
+        "parent": "Residential cum training complex for Special Protection group,(SPG) , (Ph-l) & Ph-II sector-21 Dwarka,new Delhi ",
+        "child": []
+    },
+    {
+        "parent": "Sri Venkateshwara College, Dhaula Kuan",
+        "child": []
+    },
+    {
+        "parent": "Repairing and waterproofing of toilets and other works for working Women's hostel, Jasola",
+        "child": []
+    },
+    {
+        "parent": "Additional Floor for IPO at Dwaraka",
+        "child": []
+    },
+    {
+        "parent": "Income Tax, Saket",
+        "child": []
+    },
+    {
+        "parent": "CBSE Works at Dwaraka",
+        "child": []
+    },
+    {
+        "parent": "IIT Delhi",
+        "child": []
+    },
+    {
+        "parent": "Kanpur",
+        "child": [
+            "Skill Development work /IIS Kanpur",
+            " Income Tax Office cum Residential Building at Kanpur, Uttar Pradesh",
+            "ESIC Dental College & Renovation of ESIC Hospital at Pandu Nagar, Kanpur",
+            "ESIC Pandu Nagar, Kanpur, U.P."
+        ]
+    },
+    {
+        "parent": "Maharajganj",
+        "child": [
+            "SSB Works Mahraj Ganj, U.P. With External development work"
+        ]
+    },
+    {
+        "parent": "varanasi",
+        "child": [
+            "Central university of Tibetian Studies, Varanasi",
+            " Centre for Teachers Education (CTE) Building, Varanasi",
+            " Public Amenities at Khidkiya Ghat at Varanasi",
+            " Hostels and Residences for lIT BHU , Varanasi",
+            "Trade Facilitation Centre And Craft Museum At Bada Lala Pur In varanasi UP",
+            "Restoration of Four (4) Kunds in Varanasi",
+            "24 Roads at Varanasi Under Hriday Scheme"
+        ]
+    },
+    {
+        "parent": "Ambedkar Nagar",
+        "child": [
+            "200 Bedded Child And Women Hospital, Ambedkar Nagar (UP)"
+        ]
+    },
+    {
+        "parent": "Shrawasti",
+        "child": [
+            "Various Building & Development works Bhinga,UP"
+        ]
+    },
+    {
+        "parent": "Bahraich",
+        "child": [
+            "Qtrs. at SSB Bn Nanpara Up"
+        ]
+    },
+    {
+        "parent": "Raebareilly",
+        "child": [
+            "CBSE Works at Rae-Bareilly"
+        ]
+    },
+    {
+        "parent": "Allahabad",
+        "child": [
+            "CISF Allahabad (Resi+ Non-Res) at Kalidipuram",
+            "CISF Allahabad (Resi+ Non-Res) at HQ",
+            "STPI Allahabad"
+        ]
+    },
+    {
+        "parent": "Lucknow",
+        "child": [
+            "ESIC Trauma Centre, Lucknow",
+            "NIA Lucknow",
+            "Income tax Office Building, Lucknow",
+            "CIO Building for CRIH Lucknow",
+            " Gomtinagar railway station at Lucknow         "
+        ]
+    },
+    {
+        "parent": "Greater Noida",
+        "child": [
+            "ASI Works,Greater Noida",
+            "CRPF Works,Greater Noida",
+            "Type-II Quarters, CISF Campus, Greater Noida U.P.",
+            "Hospital For CPMF, Gr. Noida"
+        ]
+    },
+    {
+        "parent": "Ghaziabad",
+        "child": [
+            "CISF housing at Gaziabad",
+            "Building at 08 Bn. NDRF, Ghaziabad (UP)",
+            "Food Safety & Standards Authority of India (FSSAI), Ghaziabad",
+            "CDTS at Sector-XIX, Kamla Nehru Nagar (UP)"
+        ]
+    },
+    {
+        "parent": "Baghpat",
+        "child": [
+            "Khekra,UP"
+        ]
+    },
+    {
+        "parent": "Meerut",
+        "child": [
+            " Brij Mohan School for the Blind in Meerut,UP"
+        ]
+    },
+    {
+        "parent": "Jhansi",
+        "child": [
+            "Development of Rani Lakshmi Bai Central Agricultural university work at Jhansi, UP"
+        ]
+    },
+    {
+        "parent": "NOIDA",
+        "child": [
+            "NSEZ,Noida"
+        ]
+    },
+    {
+        "parent": "Jaipur",
+        "child": [
+            "ESIC Hospital, Jaipur",
+            "Face Lifting I Renovation Of ESIC Regional Office, Jaipur"
+        ]
+    },
+    {
+        "parent": "Others",
+        "child": []
+    },
+    {
+        "parent": "Mandi",
+        "child": [
+            "IIT Mandi,Himachal Pradesh",
+            "ESIC, Mandi"
+        ]
+    },
+    {
+        "parent": "Bilaspur",
+        "child": [
+            "AIIMS Bilaspur"
+        ]
+    },
+    {
+        "parent": "Chamba",
+        "child": [
+            "Medical College, Chamba, Himachal Pradesh"
+        ]
+    },
+    {
+        "parent": "Solan",
+        "child": [
+            "SIC Regional Office Building Baddi, Himachal Pradesh"
+        ]
+    },
+    {
+        "parent": "PGI Chandigarh",
+        "child": []
+    },
+    {
+        "parent": "Patiala",
+        "child": [
+            "NSNIS Patiala"
+        ]
+    },
+    {
+        "parent": "Mohali",
+        "child": [
+            "The Regional Centre Of NIPCCD At Mohali Punjab_"
+        ]
+    },
+    {
+        "parent": "Ropar",
+        "child": [
+            "Permanent Campus Of NIELIT, Chandigarh At Ropar, Punjab"
+        ]
+    },
+    {
+        "parent": "Amritsar",
+        "child": [
+            " Jallianwala bagh , Amritsar",
+            "Passport Office Building at plot no. 9, DSC,Ajnata Road, Ranjit Avenue, Amritsar"
+        ]
+    },
+    {
+        "parent": "Sonepat",
+        "child": [
+            "Intern Hostel-BSGMC, Khanpur Kalan, Juan, Haryana",
+            "NIFTEM Sonepat, Haryana",
+            "CRPF Works, Bahalgarh, Sonepat"
+        ]
+    },
+    {
+        "parent": "Panchkula",
+        "child": [
+            "Barracks for BTC, ITBP, Bhanu, Haryana"
+        ]
+    },
+    {
+        "parent": "Gurugram",
+        "child": [
+            " Real Estate 37-D, Gurugram",
+            "Real Estate Sector 89,Gurugram",
+            "Maintenance Work of ESIC, Gurgaon"
+        ]
+    },
+    {
+        "parent": "ALL Works except BSF works chakur Maharashtra",
+        "child": []
+    },
+    {
+        "parent": "BSF works chakur Maharashtra",
+        "child": []
+    },
+    {
+        "parent": "Chennai",
+        "child": [
+            "UIICL Chennai,"
+        ]
+    },
+    {
+        "parent": "Bangalore",
+        "child": [
+            "CIPET Bangalore",
+            "KTPO Bangalore"
+        ]
+    },
+    {
+        "parent": "555 housing units for EWS under PMAY at port blair",
+        "child": []
+    },
+    {
+        "parent": "Kochi",
+        "child": [
+            "Sabrimala base campus at kerela",
+            " Aayakar Bhawan at Kochi,Kerala"
+        ]
+    },
+    {
+        "parent": "Vijaywada",
+        "child": [
+            "NIDM Works,Vijaywada,Andhra Pradesh",
+            "NID Works"
+        ]
+    },
+    {
+        "parent": "Visakhapatnam",
+        "child": [
+            "IIM Visakhapatnam"
+        ]
+    },
+    {
+        "parent": "Hyderabad",
+        "child": [
+            "NACIN  Works,hyderabad",
+            "NIA Works Hyderabad"
+        ]
+    },
+    {
+        "parent": "All Works except PMGSY WORKS ORRISA",
+        "child": []
+    },
+    {
+        "parent": "PMGSY WORKS ORRISA",
+        "child": []
+    },
+    {
+        "parent": "SSB Mangaldoi(1B)",
+        "child": []
+    },
+    {
+        "parent": "ISI Works, Tezpur",
+        "child": []
+    },
+    {
+        "parent": "M.O.T Washing Machine",
+        "child": []
+    },
+    {
+        "parent": "Res. BSF work, Manipur",
+        "child": []
+    },
+    {
+        "parent": "National Sports University at Koutruk-Senjam, Imphal, Manipur. Hostel Blocks",
+        "child": []
+    },
+    {
+        "parent": "PMGSY Works,Tripura",
+        "child": []
+    },
+    {
+        "parent": "UD (Tripura)",
+        "child": []
+    },
+    {
+        "parent": "Slum Development at Dharmanagar",
+        "child": []
+    },
+    {
+        "parent": "Town Hall at Bishalgarh",
+        "child": []
+    },
+    {
+        "parent": "Tripura Institute of Technology, Agartala, ",
+        "child": []
+    },
+    {
+        "parent": "IBBF Tripura ",
+        "child": []
+    },
+    {
+        "parent": "Textile Works, Sikkim",
+        "child": []
+    },
+    {
+        "parent": " NIELIT, Works Gangtok/ Pakyong",
+        "child": []
+    },
+    {
+        "parent": "19th Bn Hqtr. SSB at Geyzing.",
+        "child": []
+    },
+    {
+        "parent": "Multi story commercial complex at Akhronga, tura",
+        "child": []
+    },
+    {
+        "parent": "Polo Market",
+        "child": []
+    },
+    {
+        "parent": "IBBF Meghalaya ",
+        "child": []
+    },
+    {
+        "parent": "IBBF DTR, Mizoram",
+        "child": []
+    },
+    {
+        "parent": "Kolkata Project",
+        "child": []
+    },
+    {
+        "parent": "IDS",
+        "child": []
+    },
+    {
+        "parent": "AO",
+        "child": []
+    },
+    {
+        "parent": "Sr. AO",
+        "child": []
+    },
+    {
+        "parent": "AAO",
+        "child": []
+    }
+]

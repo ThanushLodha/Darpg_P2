@@ -1,0 +1,4653 @@
+[
+    {
+        "parent": "Patient Care",
+        "child": [
+            "Deficiency in treatment",
+            "Non-availability of appointment",
+            "Long waiting period",
+            "Misbehaviour by staff",
+            "Insufficient space in waiting area",
+            "Lack of facilities in OPD",
+            "Financial difficulties",
+            "Other"
+        ]
+    },
+    {
+        "parent": "Students Related",
+        "child": [
+            "Counselling/ Admission related matters",
+            "AIIMS exam related matters",
+            "Fees related matters",
+            "Other"
+        ]
+    },
+    {
+        "parent": "Recruitment Related",
+        "child": [
+            "Regular appointment",
+            "Contractual/ Outsourced",
+            "Recruitment exam related",
+            "Other"
+        ]
+    },
+    {
+        "parent": "Procurement Related",
+        "child": [
+            "Pre Tender Grievances",
+            "Post Tender Grievances",
+            "Local Purchase",
+            "GeM",
+            "Other"
+        ]
+    },
+    {
+        "parent": "Other",
+        "child": []
+    },
+    {
+        "parent": "Deficiency in treatments",
+        "child": []
+    },
+    {
+        "parent": "Misbehaviour by staff",
+        "child": []
+    },
+    {
+        "parent": "Lack of facilities in OPD",
+        "child": []
+    },
+    {
+        "parent": "Long waiting period",
+        "child": []
+    },
+    {
+        "parent": "Non-availability of beds",
+        "child": []
+    },
+    {
+        "parent": "Non-availability of medical equipment",
+        "child": []
+    },
+    {
+        "parent": "Job on compassionate ground",
+        "child": []
+    },
+    {
+        "parent": "Promotion  related matter",
+        "child": []
+    },
+    {
+        "parent": "Recruitment exam related",
+        "child": []
+    },
+    {
+        "parent": "Employee Related",
+        "child": []
+    },
+    {
+        "parent": "Public Health Facilities Matters",
+        "child": []
+    },
+    {
+        "parent": "Relaxation of Rules",
+        "child": []
+    },
+    {
+        "parent": "Non-passing of bills by applicants/organizations",
+        "child": []
+    },
+    {
+        "parent": "Delay in settlement of claims",
+        "child": []
+    },
+    {
+        "parent": "Full reimbursement cases",
+        "child": []
+    },
+    {
+        "parent": "Financial Assistance to PLHlVs",
+        "child": []
+    },
+    {
+        "parent": "Issuing ID Card/ Proof for PLHIV",
+        "child": []
+    },
+    {
+        "parent": "Social protection and Entitlement for PLHIV",
+        "child": []
+    },
+    {
+        "parent": "Regularization",
+        "child": []
+    },
+    {
+        "parent": "Remuneration as per 7* pay commission",
+        "child": []
+    },
+    {
+        "parent": "Death Claim/ Life Insurance",
+        "child": []
+    },
+    {
+        "parent": "ARV stock related issues",
+        "child": []
+    },
+    {
+        "parent": "ART side effects",
+        "child": []
+    },
+    {
+        "parent": "Lack of space and overcrowded  ART centres",
+        "child": []
+    },
+    {
+        "parent": "Universal Testing of Ante Natal mother",
+        "child": []
+    },
+    {
+        "parent": "Confidentiality of HIV Testing",
+        "child": []
+    },
+    {
+        "parent": "Mandatory HIV testing before marriage",
+        "child": []
+    },
+    {
+        "parent": "Reuse of syringes",
+        "child": []
+    },
+    {
+        "parent": "Vaccine",
+        "child": []
+    },
+    {
+        "parent": "Medicine",
+        "child": []
+    },
+    {
+        "parent": "Financial Aid/ Infrastructure for Research Work",
+        "child": []
+    },
+    {
+        "parent": "Shortage of Blood",
+        "child": []
+    },
+    {
+        "parent": "Malpractice in Blood Banks",
+        "child": []
+    },
+    {
+        "parent": "Staff Behaviour",
+        "child": []
+    },
+    {
+        "parent": "Announcements/Displays",
+        "child": []
+    },
+    {
+        "parent": "Check-in Waiting",
+        "child": []
+    },
+    {
+        "parent": "Denied Boarding",
+        "child": []
+    },
+    {
+        "parent": "Lounge Facilities",
+        "child": []
+    },
+    {
+        "parent": "Wheelchair/Facilitation",
+        "child": []
+    },
+    {
+        "parent": "Others",
+        "child": []
+    },
+    {
+        "parent": "Delay/Cancellation update",
+        "child": []
+    },
+    {
+        "parent": "Absence of Advance Information",
+        "child": []
+    },
+    {
+        "parent": "Misconnection/Reprotection",
+        "child": []
+    },
+    {
+        "parent": "Facilitation",
+        "child": []
+    },
+    {
+        "parent": "Cabin Crew attitude and behaviour",
+        "child": []
+    },
+    {
+        "parent": "Cabin Services",
+        "child": []
+    },
+    {
+        "parent": "Meals",
+        "child": []
+    },
+    {
+        "parent": "Air Conditioning",
+        "child": []
+    },
+    {
+        "parent": "Cabin Upkeep",
+        "child": []
+    },
+    {
+        "parent": "Toilet Upkeep",
+        "child": []
+    },
+    {
+        "parent": "Dysfunctional Seats",
+        "child": []
+    },
+    {
+        "parent": "Agent Booking",
+        "child": []
+    },
+    {
+        "parent": "Air India Website Bookings/Refunds",
+        "child": []
+    },
+    {
+        "parent": "Accessibility",
+        "child": []
+    },
+    {
+        "parent": "Incorrect Information conveyed",
+        "child": []
+    },
+    {
+        "parent": "Delay/Cancellation information not conveyed",
+        "child": []
+    },
+    {
+        "parent": "Membership enrollment & KYC",
+        "child": []
+    },
+    {
+        "parent": "Retro Credit/Missing Miles",
+        "child": []
+    },
+    {
+        "parent": "Redemption",
+        "child": []
+    },
+    {
+        "parent": "General",
+        "child": []
+    },
+    {
+        "parent": "SEC member & Service",
+        "child": []
+    },
+    {
+        "parent": "GEC Member & Service",
+        "child": []
+    },
+    {
+        "parent": "TMC Member & Service",
+        "child": []
+    },
+    {
+        "parent": "HR Issues",
+        "child": []
+    },
+    {
+        "parent": "On Board Airconditioning",
+        "child": []
+    },
+    {
+        "parent": "Tarmac Coaches",
+        "child": []
+    },
+    {
+        "parent": "Airport Services",
+        "child": []
+    },
+    {
+        "parent": "Refund of Bookings",
+        "child": []
+    },
+    {
+        "parent": "HR Related",
+        "child": []
+    },
+    {
+        "parent": "Refund of Booking",
+        "child": []
+    },
+    {
+        "parent": "Mishandled Cargo",
+        "child": []
+    },
+    {
+        "parent": "Delayed Cargo",
+        "child": []
+    },
+    {
+        "parent": "Anything related to Air India Medical",
+        "child": []
+    },
+    {
+        "parent": "Old CAD Pension Cases",
+        "child": []
+    },
+    {
+        "parent": "New EPFO Pension Cases",
+        "child": []
+    },
+    {
+        "parent": "PPO not issued",
+        "child": []
+    },
+    {
+        "parent": "Pension / Arrears not received",
+        "child": []
+    },
+    {
+        "parent": "Family pension / Arrears not received",
+        "child": []
+    },
+    {
+        "parent": "Social security related issues",
+        "child": []
+    },
+    {
+        "parent": "Anomaly in recruitment process",
+        "child": []
+    },
+    {
+        "parent": "Terminal Benefits not received",
+        "child": []
+    },
+    {
+        "parent": "Request for compassionate appointment",
+        "child": []
+    },
+    {
+        "parent": "Allotment of residential accomodation in AAI Colonies",
+        "child": []
+    },
+    {
+        "parent": "Contract Labour related",
+        "child": []
+    },
+    {
+        "parent": "Exam Center",
+        "child": []
+    },
+    {
+        "parent": "Qestion Paper Issue",
+        "child": []
+    },
+    {
+        "parent": "others",
+        "child": []
+    },
+    {
+        "parent": "Fee",
+        "child": []
+    },
+    {
+        "parent": "Interest/Penality",
+        "child": []
+    },
+    {
+        "parent": "Pension Related",
+        "child": []
+    },
+    {
+        "parent": "Pay Fixation",
+        "child": []
+    },
+    {
+        "parent": "MACP",
+        "child": []
+    },
+    {
+        "parent": "Stepping up",
+        "child": []
+    },
+    {
+        "parent": "Waiting List",
+        "child": []
+    },
+    {
+        "parent": "Eligible Types & Pools",
+        "child": []
+    },
+    {
+        "parent": "Allotment Preference Submission (Bidding)",
+        "child": []
+    },
+    {
+        "parent": "Acceptance",
+        "child": []
+    },
+    {
+        "parent": "CPWD Sewa / Enquiry",
+        "child": []
+    },
+    {
+        "parent": "Retention",
+        "child": []
+    },
+    {
+        "parent": "Reconsideration",
+        "child": []
+    },
+    {
+        "parent": "Change of Accommodation",
+        "child": []
+    },
+    {
+        "parent": "Temporary Allotment (Marriage Purpose)",
+        "child": []
+    },
+    {
+        "parent": "Application for GPOA / Market",
+        "child": []
+    },
+    {
+        "parent": "Allotment of GPOA / Market",
+        "child": []
+    },
+    {
+        "parent": "Licence Fees of GPOA / Market",
+        "child": []
+    },
+    {
+        "parent": "Eligibility criteria",
+        "child": []
+    },
+    {
+        "parent": "Booking failure",
+        "child": []
+    },
+    {
+        "parent": "Problem in payment module",
+        "child": []
+    },
+    {
+        "parent": "Rebooking \u2013 after two hours",
+        "child": []
+    },
+    {
+        "parent": "Non-confirmed bookings",
+        "child": []
+    },
+    {
+        "parent": "Time for application of Refund \u2013 after 07 days",
+        "child": []
+    },
+    {
+        "parent": "Staff",
+        "child": []
+    },
+    {
+        "parent": "Services",
+        "child": []
+    },
+    {
+        "parent": "Charges of Services",
+        "child": []
+    },
+    {
+        "parent": "Govt.",
+        "child": []
+    },
+    {
+        "parent": "Non-Govt.",
+        "child": []
+    },
+    {
+        "parent": "Retired",
+        "child": [
+            "Transfer",
+            "Posting",
+            "Medical",
+            "Allowances"
+        ]
+    },
+    {
+        "parent": "MPs",
+        "child": []
+    },
+    {
+        "parent": "Charges for Self",
+        "child": []
+    },
+    {
+        "parent": "Charges for Guests",
+        "child": []
+    },
+    {
+        "parent": "Locations of GPRA",
+        "child": []
+    },
+    {
+        "parent": "Admins/DDOs onboarding",
+        "child": []
+    },
+    {
+        "parent": "At Delhi",
+        "child": []
+    },
+    {
+        "parent": "Outside Delhi",
+        "child": []
+    },
+    {
+        "parent": "Registration",
+        "child": []
+    },
+    {
+        "parent": "Sign In",
+        "child": []
+    },
+    {
+        "parent": "Application for Admin / DDO Role",
+        "child": []
+    },
+    {
+        "parent": "Profile Submission",
+        "child": []
+    },
+    {
+        "parent": "Functions of Admin",
+        "child": []
+    },
+    {
+        "parent": "Functions of DDO",
+        "child": []
+    },
+    {
+        "parent": "Online Payment",
+        "child": []
+    },
+    {
+        "parent": "Updation in user details (Name & DoP)",
+        "child": []
+    },
+    {
+        "parent": "Design & Interface",
+        "child": []
+    },
+    {
+        "parent": "Pending any type of Bill/dues for payment",
+        "child": []
+    },
+    {
+        "parent": "Issues related to promotion/MACP etc",
+        "child": []
+    },
+    {
+        "parent": "Sexual Harassment",
+        "child": []
+    },
+    {
+        "parent": "Misbehavour/Harassment by any officer/staff",
+        "child": []
+    },
+    {
+        "parent": "Establishement related",
+        "child": []
+    },
+    {
+        "parent": "Pay & Allowances",
+        "child": []
+    },
+    {
+        "parent": "Housing Keeping matters",
+        "child": []
+    },
+    {
+        "parent": "Library related",
+        "child": []
+    },
+    {
+        "parent": "Pension related",
+        "child": []
+    },
+    {
+        "parent": "Reservation related",
+        "child": []
+    },
+    {
+        "parent": "Water Supply System",
+        "child": []
+    },
+    {
+        "parent": "Sewerage System",
+        "child": []
+    },
+    {
+        "parent": "Storm Water Drainage",
+        "child": []
+    },
+    {
+        "parent": "Public Transport facility to reduce pollution",
+        "child": []
+    },
+    {
+        "parent": "Green Space and Parks",
+        "child": []
+    },
+    {
+        "parent": "Path Wasys",
+        "child": []
+    },
+    {
+        "parent": "Ease of doing business",
+        "child": []
+    },
+    {
+        "parent": "Policy and establishment matter of DDA",
+        "child": []
+    },
+    {
+        "parent": "Matter related to GNCTD",
+        "child": []
+    },
+    {
+        "parent": "Matter related to NDMC",
+        "child": []
+    },
+    {
+        "parent": "Matter related o Delhi Jal Board",
+        "child": []
+    },
+    {
+        "parent": "Matter related to MCD",
+        "child": []
+    },
+    {
+        "parent": "Master plan 2021",
+        "child": []
+    },
+    {
+        "parent": "Regularisation of unauthorised colony",
+        "child": []
+    },
+    {
+        "parent": "Matter related to DUAC",
+        "child": []
+    },
+    {
+        "parent": "Matter related to Raj Ghat Samadhi",
+        "child": []
+    },
+    {
+        "parent": "Matter related to NBCC",
+        "child": []
+    },
+    {
+        "parent": "Matter related to Rent Control in Delhi",
+        "child": []
+    },
+    {
+        "parent": "Project Related Complaint",
+        "child": []
+    },
+    {
+        "parent": "Quality Service",
+        "child": []
+    },
+    {
+        "parent": "Non completion of Schemes/Projects",
+        "child": []
+    },
+    {
+        "parent": "Non completion of Housing Schemes/Projects",
+        "child": []
+    },
+    {
+        "parent": "Delay in giving  possession of flat",
+        "child": []
+    },
+    {
+        "parent": "Fraud done by builders",
+        "child": []
+    },
+    {
+        "parent": "Matter related to rent control in cities other than Delhi",
+        "child": []
+    },
+    {
+        "parent": "Administrative matter of HUDCO, HPL, CGEWHO, BMPTC",
+        "child": []
+    },
+    {
+        "parent": "Civic amenties like -adequate water supply, assured electricity supply, sanitation, including solid waste management, efficient urban mobility and public transport etc.",
+        "child": []
+    },
+    {
+        "parent": "Corruption in Smart City Project",
+        "child": []
+    },
+    {
+        "parent": "Delay in complition of Project",
+        "child": []
+    },
+    {
+        "parent": "Suggestions/request related to Smart City",
+        "child": []
+    },
+    {
+        "parent": "Payement of contractor",
+        "child": []
+    },
+    {
+        "parent": "Household Toilets, Community/Public Toilets",
+        "child": []
+    },
+    {
+        "parent": "Solid Waste Management",
+        "child": []
+    },
+    {
+        "parent": "Awareness about sanitation and its linkage with public health",
+        "child": []
+    },
+    {
+        "parent": "Elimination of open defecation",
+        "child": []
+    },
+    {
+        "parent": "Eradication of Manual Scavenging",
+        "child": []
+    },
+    {
+        "parent": "Corruption in Swachh Bhart Scheme",
+        "child": []
+    },
+    {
+        "parent": "Suggestions/request related to Swachh Bharat Mission",
+        "child": []
+    },
+    {
+        "parent": "Promotion of urban livelihoold",
+        "child": []
+    },
+    {
+        "parent": "Skill training of urban poors",
+        "child": []
+    },
+    {
+        "parent": "Release of funds to the State Governments under DAY-NULM scheme",
+        "child": []
+    },
+    {
+        "parent": "Street Vendors Act",
+        "child": []
+    },
+    {
+        "parent": "Shelter for Urban Homeless",
+        "child": []
+    },
+    {
+        "parent": "Support to Urban Street Vendors",
+        "child": []
+    },
+    {
+        "parent": "Self Employment Programme",
+        "child": []
+    },
+    {
+        "parent": "Innovation & Special Projects",
+        "child": []
+    },
+    {
+        "parent": "Social Mobilization & Institution Development",
+        "child": []
+    },
+    {
+        "parent": "FDI matters relating to urban sector.",
+        "child": []
+    },
+    {
+        "parent": "Matters relating to Disaster Management.",
+        "child": []
+    },
+    {
+        "parent": "Issues related project assisted by World Bank, ADB etc.",
+        "child": []
+    },
+    {
+        "parent": "Administrative matter of CPWD and Central Engineering Services",
+        "child": []
+    },
+    {
+        "parent": "Maintenance and creation of monuments",
+        "child": []
+    },
+    {
+        "parent": "Complaint/request for PMAY",
+        "child": []
+    },
+    {
+        "parent": "Complaint regarding payment of subsidy",
+        "child": []
+    },
+    {
+        "parent": "Complaint/Request for water supply",
+        "child": []
+    },
+    {
+        "parent": "Matter related urban sanitation",
+        "child": []
+    },
+    {
+        "parent": "Mannual scavenging",
+        "child": []
+    },
+    {
+        "parent": "Matter related solid waste management in urban area",
+        "child": []
+    },
+    {
+        "parent": "Matter related to development projects of North East regions",
+        "child": []
+    },
+    {
+        "parent": "10% lumpsum schemes",
+        "child": []
+    },
+    {
+        "parent": "Matter related to court cases",
+        "child": []
+    },
+    {
+        "parent": "Matter related to RTI",
+        "child": []
+    },
+    {
+        "parent": "Matter related to welfare and recreation",
+        "child": []
+    },
+    {
+        "parent": "Matter related to general coordination",
+        "child": []
+    },
+    {
+        "parent": "Matter related to public grievances",
+        "child": []
+    },
+    {
+        "parent": "Poor quality of road, construction, maintenance related, \u00a0 delay in action, parking related etc",
+        "child": []
+    },
+    {
+        "parent": "Encroachment, Unathorised construction etc",
+        "child": []
+    },
+    {
+        "parent": "Mis-appropriation of funds in ULBs, misuse of powers etc",
+        "child": []
+    },
+    {
+        "parent": "Group B Non Gazetted  (Except Technical Officer) & Group C Employees",
+        "child": []
+    },
+    {
+        "parent": "Group A&B Gazetted & Technical Officer",
+        "child": []
+    },
+    {
+        "parent": "INDIA",
+        "child": [
+            "Delhi",
+            "UP",
+            "Rajasthan",
+            "Himachal Pradesh",
+            "Chandigarh",
+            "Punjab",
+            "Haryana",
+            "Uttrakhand",
+            "Maharashtra",
+            "Goa",
+            "Gujarat ",
+            "Madhya Pradesh",
+            "Tamilnadu",
+            "Karnataka",
+            "Andaman and Nicobar",
+            "Kerala",
+            "Andhra Pradesh",
+            "Telangana",
+            "BIHAR",
+            "Jharkhand",
+            "Odisha",
+            "West Bengal",
+            "Assam",
+            "Manipur",
+            "Tripura",
+            "Sikkim",
+            "Meghalaya",
+            "Mizoram",
+            "Infrastructure Zone"
+        ]
+    },
+    {
+        "parent": "Maldives",
+        "child": [
+            "Institute for Security & Law Enforcement at Addu City, Maldives"
+        ]
+    },
+    {
+        "parent": "Mauritus",
+        "child": []
+    },
+    {
+        "parent": "All issues except Marketing",
+        "child": []
+    },
+    {
+        "parent": "Marketing related",
+        "child": []
+    },
+    {
+        "parent": "West Bengal",
+        "child": [
+            "Kolkata",
+            "Durgapur"
+        ]
+    },
+    {
+        "parent": "Odisha",
+        "child": [
+            "Bhubaneswar ",
+            "Duburi,Jajapur",
+            "Rourkela"
+        ]
+    },
+    {
+        "parent": "Bihar",
+        "child": [
+            "Patna"
+        ]
+    },
+    {
+        "parent": "Jharkhand",
+        "child": [
+            "Ranchi",
+            "Bokaro "
+        ]
+    },
+    {
+        "parent": "Chattisgarh",
+        "child": [
+            "Bhilai ",
+            "Bastar,Nagarnar"
+        ]
+    },
+    {
+        "parent": "Madhya Pradesh",
+        "child": [
+            "Sagar"
+        ]
+    },
+    {
+        "parent": "Gujarat ",
+        "child": [
+            "Ahmedabad",
+            "Vadodara"
+        ]
+    },
+    {
+        "parent": "Maharashtra",
+        "child": [
+            "Pune",
+            "Mumbai",
+            "Nagpur"
+        ]
+    },
+    {
+        "parent": "Delhi",
+        "child": []
+    },
+    {
+        "parent": "Uttarakhand",
+        "child": [
+            "Dehradun"
+        ]
+    },
+    {
+        "parent": "UP",
+        "child": [
+            "Varanasi"
+        ]
+    },
+    {
+        "parent": "Rajasthan",
+        "child": []
+    },
+    {
+        "parent": "Himachal Pradesh",
+        "child": []
+    },
+    {
+        "parent": "Punjab",
+        "child": []
+    },
+    {
+        "parent": "Karnataka",
+        "child": [
+            "Bangalore"
+        ]
+    },
+    {
+        "parent": "Tamilnadu",
+        "child": [
+            "Chennai"
+        ]
+    },
+    {
+        "parent": "Telangana",
+        "child": []
+    },
+    {
+        "parent": "Andhra Pradesh",
+        "child": [
+            "Hyderabad",
+            "Vizag"
+        ]
+    },
+    {
+        "parent": "Tripura",
+        "child": []
+    },
+    {
+        "parent": "Roads/ Lanes",
+        "child": []
+    },
+    {
+        "parent": "Clubs",
+        "child": []
+    },
+    {
+        "parent": "Government hospitals ",
+        "child": []
+    },
+    {
+        "parent": "Private hospitals ",
+        "child": []
+    },
+    {
+        "parent": "Political parties",
+        "child": []
+    },
+    {
+        "parent": "Press/Media Organisations",
+        "child": []
+    },
+    {
+        "parent": "Socio-Cultural Institutions",
+        "child": []
+    },
+    {
+        "parent": "Creche",
+        "child": []
+    },
+    {
+        "parent": "Girls Hostel",
+        "child": []
+    },
+    {
+        "parent": "Cinema / Theaters (Administration of lease/ MoA signed with them)",
+        "child": []
+    },
+    {
+        "parent": "Allotment of land to religious buildings (Gurudwara, Mandir, Church, etc.)",
+        "child": []
+    },
+    {
+        "parent": "Allotment of land to educational institutions (School, Pre Nursery to Sr. Sec. Schools, Colleges, hostels,etc.)",
+        "child": []
+    },
+    {
+        "parent": "Allotment of land to local bodies (NDMC, MCD)",
+        "child": []
+    },
+    {
+        "parent": "International Agencies/Public Undertakings and Institutes",
+        "child": []
+    },
+    {
+        "parent": "De-notified Wakf Properties",
+        "child": []
+    },
+    {
+        "parent": "Mahila Imdad Committee/ MoSJ&E/ MoMA",
+        "child": []
+    },
+    {
+        "parent": "National War Memorial",
+        "child": []
+    },
+    {
+        "parent": "National Museum of Natural History",
+        "child": []
+    },
+    {
+        "parent": "States for their Emporiums, Guest Houses and for any other purposes",
+        "child": []
+    },
+    {
+        "parent": "Hotels",
+        "child": []
+    },
+    {
+        "parent": "Petrol Pumps ",
+        "child": []
+    },
+    {
+        "parent": "Coal Depots ",
+        "child": []
+    },
+    {
+        "parent": "Gas Godowns ",
+        "child": []
+    },
+    {
+        "parent": "CNG Stations",
+        "child": []
+    },
+    {
+        "parent": "Mother Dairy",
+        "child": []
+    },
+    {
+        "parent": "Delhi Milk Scheme ",
+        "child": []
+    },
+    {
+        "parent": "Other Locations",
+        "child": []
+    },
+    {
+        "parent": "DDA transferred sites ",
+        "child": []
+    },
+    {
+        "parent": "Notified Area committee sites files",
+        "child": []
+    },
+    {
+        "parent": "Temporary allotment of land to various organization/agencies for short period such as for Ram Lila/Circus/Games etc.",
+        "child": []
+    },
+    {
+        "parent": "Conversion Cell",
+        "child": [
+            "HPIL (Hemisphere properties India Limited)",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Clubs ",
+        "child": []
+    },
+    {
+        "parent": "Socio-Cultural Institutions ",
+        "child": []
+    },
+    {
+        "parent": "Mother Dairy ",
+        "child": []
+    },
+    {
+        "parent": "Delhi Milk Scheme",
+        "child": []
+    },
+    {
+        "parent": "Conversion Cell ",
+        "child": [
+            "HPIL (Hemisphere properties India Limited)",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Nature of Work: Civil",
+        "child": []
+    },
+    {
+        "parent": "Nature of Work: Electrical",
+        "child": []
+    },
+    {
+        "parent": "Nature of Work: Horticulture",
+        "child": []
+    },
+    {
+        "parent": "Appointment on Compassionate Grounds",
+        "child": []
+    },
+    {
+        "parent": "Fixation of Seniority",
+        "child": []
+    },
+    {
+        "parent": "Issue of NOC for Passport",
+        "child": []
+    },
+    {
+        "parent": "Issue of CGHS Card",
+        "child": []
+    },
+    {
+        "parent": "Promotion",
+        "child": []
+    },
+    {
+        "parent": "Posting/Transfer/Retention",
+        "child": []
+    },
+    {
+        "parent": "Verification of Service",
+        "child": []
+    },
+    {
+        "parent": "Financial upgradation under MACP/NFU",
+        "child": []
+    },
+    {
+        "parent": "Release of Salary",
+        "child": []
+    },
+    {
+        "parent": "Anomaly in grant of higher pay scales",
+        "child": []
+    },
+    {
+        "parent": "Anomaly in fixation of pay",
+        "child": []
+    },
+    {
+        "parent": "Payment of Medical Bills",
+        "child": []
+    },
+    {
+        "parent": "Stoppage of CGHS Contribution",
+        "child": []
+    },
+    {
+        "parent": "Pending of any type of bills/dues",
+        "child": []
+    },
+    {
+        "parent": "Waiver of recovery from retirement dues",
+        "child": []
+    },
+    {
+        "parent": "Income Tax Recoveries",
+        "child": []
+    },
+    {
+        "parent": "Delay in start of retirement/family pension",
+        "child": []
+    },
+    {
+        "parent": "Delay in payment of gratuity/GPF/Leave encashment/CGEGIS",
+        "child": []
+    },
+    {
+        "parent": "Interest on delay of pension/gratuity payment/GPF",
+        "child": []
+    },
+    {
+        "parent": "Adding/Deleting beneficiary in PPO",
+        "child": []
+    },
+    {
+        "parent": "Counting of Master Roll Service for pension purpose",
+        "child": []
+    },
+    {
+        "parent": "Grant of Family pension to dependent",
+        "child": []
+    },
+    {
+        "parent": "Miscalculation for fixation of pension/family pension",
+        "child": []
+    },
+    {
+        "parent": "Revision of Pension/Family Pension",
+        "child": []
+    },
+    {
+        "parent": "Stoppage of Pension/Family Pension",
+        "child": []
+    },
+    {
+        "parent": "Appeal for Disciplinary cases",
+        "child": []
+    },
+    {
+        "parent": "Promotion and consequential benefits after exoneration",
+        "child": []
+    },
+    {
+        "parent": "Enhancement of Substance Allowance",
+        "child": []
+    },
+    {
+        "parent": "Allegation of Corruption in disposal of Administrative cases",
+        "child": []
+    },
+    {
+        "parent": "Recruitment",
+        "child": []
+    },
+    {
+        "parent": "Transfer and Posting",
+        "child": []
+    },
+    {
+        "parent": "Misbehaviour of Staff",
+        "child": []
+    },
+    {
+        "parent": "Employee Related Case",
+        "child": []
+    },
+    {
+        "parent": "Minorities",
+        "child": []
+    },
+    {
+        "parent": "Women",
+        "child": []
+    },
+    {
+        "parent": "SC/ST",
+        "child": []
+    },
+    {
+        "parent": "Differently Abled",
+        "child": []
+    },
+    {
+        "parent": "Stamp Duty",
+        "child": []
+    },
+    {
+        "parent": "GST Compensation",
+        "child": []
+    },
+    {
+        "parent": "VAT",
+        "child": []
+    },
+    {
+        "parent": "State Taxes",
+        "child": []
+    },
+    {
+        "parent": "CUSTOMS",
+        "child": []
+    },
+    {
+        "parent": "GST ",
+        "child": []
+    },
+    {
+        "parent": "DIRECTORATES",
+        "child": []
+    },
+    {
+        "parent": "Error pertaining to addition of New Authorised Signatory",
+        "child": []
+    },
+    {
+        "parent": "Pendency of Application for  cancellation of Registration (REG - 16)",
+        "child": []
+    },
+    {
+        "parent": " Pendency of Application for Amendment in Registration",
+        "child": []
+    },
+    {
+        "parent": "Pendency of Application for Revocation of Cancelled Registration (REG - 21)",
+        "child": []
+    },
+    {
+        "parent": "Bank Account Invalid",
+        "child": []
+    },
+    {
+        "parent": " Payment not Credited to Bank Account",
+        "child": []
+    },
+    {
+        "parent": "Amount (ITC) Not Re -Credited ",
+        "child": []
+    },
+    {
+        "parent": "Non-Receipt of Acknowledgement for submission of Appeal in Form APL-02 even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Non-Receipt of PH (Personal Hearing) notice issued by Appellate Authority or Summary of the demand after issue of order by the Appellate Authority in Form APL-04/Appeal Order even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Non-Receipt of  Notice u/s 108 of CGST Act in Form RVN-01 even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Non-Receipt of PH (Personal Hearing) notice by Revisional Authority or Summary of the demand after issue of order by the Revisional Authority in form APL-04/Revision Order even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Non-Receipt of PH (Personal Hearing) notice even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Non-Receipt of Order for permitting / rejecting application for unblocking of the facility for generation of EWay Bill (EWB-06) even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Non-Receipt of Order for Acceptance/ Rejection of application for deferred payment/ payment in installments (DRC-21) even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Unable to view documents attached to notice/ order etc even after generation of the same in the system.",
+        "child": []
+    },
+    {
+        "parent": "Seniority         ",
+        "child": []
+    },
+    {
+        "parent": "Promotion/DPC",
+        "child": []
+    },
+    {
+        "parent": "Proforma Promotion",
+        "child": []
+    },
+    {
+        "parent": "Review DPC",
+        "child": []
+    },
+    {
+        "parent": "Antedating of promotion",
+        "child": []
+    },
+    {
+        "parent": "Regularisation of promotion",
+        "child": []
+    },
+    {
+        "parent": "NFSG",
+        "child": []
+    },
+    {
+        "parent": "NFU",
+        "child": []
+    },
+    {
+        "parent": "Transfer/Posting",
+        "child": []
+    },
+    {
+        "parent": "Deputation",
+        "child": []
+    },
+    {
+        "parent": "Opening of sealed cover",
+        "child": []
+    },
+    {
+        "parent": "Pay fixation",
+        "child": []
+    },
+    {
+        "parent": "Seniority in r/o Administrative Officer, Superintendent(Preventive), Customs Appraisers and Superintendent (Central Excise). ",
+        "child": []
+    },
+    {
+        "parent": "Promotion for the cadre of CRCL and Official Language",
+        "child": []
+    },
+    {
+        "parent": "Reservation in r/o Administrative Officer, Superintendent (Preventive), Customs and Appraisers",
+        "child": []
+    },
+    {
+        "parent": "CSS/CSSS/CSCS   & Central Staffing scheme ",
+        "child": []
+    },
+    {
+        "parent": "ICLS ",
+        "child": []
+    },
+    {
+        "parent": "SFIO ",
+        "child": []
+    },
+    {
+        "parent": "NCLT",
+        "child": []
+    },
+    {
+        "parent": "Miscellaneous",
+        "child": []
+    },
+    {
+        "parent": "Complaint against Advertisement Telecast on Private TV Channel",
+        "child": []
+    },
+    {
+        "parent": "Complaint against Programme Telecast on private TV Channels",
+        "child": []
+    },
+    {
+        "parent": "Content by RJ",
+        "child": []
+    },
+    {
+        "parent": "Content in Advertisement",
+        "child": []
+    },
+    {
+        "parent": "Doordarshan / All India Radio (DD / AIR)",
+        "child": [
+            "Telecast/Broadcast of Events/ Serials/programmes on DD/AIR",
+            "Relating to story or facts shown in serials",
+            "Language used in News Programmes on DD/AIR",
+            "Non Coverage of certain area/language in programmes/news telecast in DD/AIR",
+            "Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Fresh Registration",
+        "child": [
+            "Delay in Issuing Registration Certificate",
+            "No Fixed Timeline for Registration Process"
+        ]
+    },
+    {
+        "parent": "Revised Registration",
+        "child": [
+            "Delay in Issuing Registration Certificate",
+            "Reason for Issuing Discrepancy Letter (DL)",
+            "No Fixed Timeline for Registration Process"
+        ]
+    },
+    {
+        "parent": "Delay in Issue of Title",
+        "child": []
+    },
+    {
+        "parent": "Similar Title Issues",
+        "child": []
+    },
+    {
+        "parent": "Reason for Rejection of Title",
+        "child": []
+    },
+    {
+        "parent": "Change in Claimed Circulation Numbers",
+        "child": []
+    },
+    {
+        "parent": "Extension in Annual Statement Filling",
+        "child": []
+    },
+    {
+        "parent": "Extension of Annual Statement Period",
+        "child": []
+    },
+    {
+        "parent": "Acceptance of Old Figures or Change in Figures",
+        "child": []
+    },
+    {
+        "parent": "Fake Circulation",
+        "child": []
+    },
+    {
+        "parent": "Corruption",
+        "child": []
+    },
+    {
+        "parent": "Suggestions to Improve RNI",
+        "child": []
+    },
+    {
+        "parent": "To Update RNI Citizen Charter",
+        "child": []
+    },
+    {
+        "parent": "Complaint against Journalist",
+        "child": []
+    },
+    {
+        "parent": "Content of Newspapers",
+        "child": []
+    },
+    {
+        "parent": "Registration of Digital Media",
+        "child": []
+    },
+    {
+        "parent": "Complaint Against Newspapers",
+        "child": []
+    },
+    {
+        "parent": "Miscellaneous Administrative Matters",
+        "child": []
+    },
+    {
+        "parent": "Non Payment of Salary",
+        "child": []
+    },
+    {
+        "parent": "Delay in Interview",
+        "child": []
+    },
+    {
+        "parent": "Delay in Written Exam",
+        "child": []
+    },
+    {
+        "parent": "Delay in Declaration of Results",
+        "child": []
+    },
+    {
+        "parent": "Appointment, Posting/Transfers, Relieving ect.",
+        "child": []
+    },
+    {
+        "parent": "Pay Related/Retirement Benefits/Allowances",
+        "child": []
+    },
+    {
+        "parent": "Probation/Confirmation/Promotion/Reversion Complaints",
+        "child": []
+    },
+    {
+        "parent": "Regular Employees",
+        "child": [
+            "Transfer",
+            "Posting",
+            "Medical",
+            "Allowances"
+        ]
+    },
+    {
+        "parent": "Casual Employees",
+        "child": [
+            "Transfer",
+            "Posting",
+            "Medical",
+            "Allowances"
+        ]
+    },
+    {
+        "parent": "Compassionate Appointment",
+        "child": [
+            "Transfer",
+            "Posting",
+            "Medical",
+            "Allowances"
+        ]
+    },
+    {
+        "parent": "Appointment",
+        "child": []
+    },
+    {
+        "parent": "Anomaly in Pay Fixation",
+        "child": []
+    },
+    {
+        "parent": "Waiver of Recovery",
+        "child": []
+    },
+    {
+        "parent": "Payment of Retiral dues",
+        "child": []
+    },
+    {
+        "parent": "Disciplinary Cases",
+        "child": []
+    },
+    {
+        "parent": "Allegation of Corruption/Malpractice",
+        "child": []
+    },
+    {
+        "parent": "Allegation of Sexual Harassment",
+        "child": []
+    },
+    {
+        "parent": "Regularization of Service",
+        "child": []
+    },
+    {
+        "parent": "Termination of Duty/Contract",
+        "child": []
+    },
+    {
+        "parent": "Payment of Wages/Bonus/ESI Ect.",
+        "child": []
+    },
+    {
+        "parent": "Allegation of Harassment",
+        "child": []
+    },
+    {
+        "parent": "Pension Delay and Other Benefits",
+        "child": []
+    },
+    {
+        "parent": "Revision of Pension",
+        "child": []
+    },
+    {
+        "parent": "Wrong Fixation of Pension",
+        "child": []
+    },
+    {
+        "parent": "Matter Related to Print Media",
+        "child": []
+    },
+    {
+        "parent": "News Content Published in Newspapers",
+        "child": []
+    },
+    {
+        "parent": "Objectionable Articles/Statement/Advertisement Published",
+        "child": []
+    },
+    {
+        "parent": "Issues Related with Journalists Ethics/Reporting",
+        "child": []
+    },
+    {
+        "parent": "Action Requested Against Newspaper Owner/Publisher for Specific News Content Published by them",
+        "child": []
+    },
+    {
+        "parent": "Financial Assistance to Journalists under Journalists Welfare Schemes (JWS)",
+        "child": []
+    },
+    {
+        "parent": "Employment Related Issues of Journalists",
+        "child": []
+    },
+    {
+        "parent": "Suggestion and Queries",
+        "child": []
+    },
+    {
+        "parent": "Suggestion for Framing Policy/Rules on Various Issues",
+        "child": []
+    },
+    {
+        "parent": "Demands/Complaints on Various Issues",
+        "child": []
+    },
+    {
+        "parent": "Army",
+        "child": []
+    },
+    {
+        "parent": "Navy",
+        "child": []
+    },
+    {
+        "parent": "Airforce",
+        "child": [
+            "Officers ",
+            "PBORS",
+            "Defence Civilians"
+        ]
+    },
+    {
+        "parent": "11 Gorkha Rifles ",
+        "child": []
+    },
+    {
+        "parent": "14 Gorkha Rifles ",
+        "child": []
+    },
+    {
+        "parent": "39 Gorkha Records ",
+        "child": []
+    },
+    {
+        "parent": "58 Gorkha Records ",
+        "child": []
+    },
+    {
+        "parent": "Armoured Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "Army Air Defence Records ",
+        "child": []
+    },
+    {
+        "parent": "Army Educatio-l Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "Army Medical Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "Army Ord-nce Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "Army Postal Service Records ",
+        "child": []
+    },
+    {
+        "parent": "APTC Records ",
+        "child": []
+    },
+    {
+        "parent": "Army Avn Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "Artillery Records ",
+        "child": []
+    },
+    {
+        "parent": "ASC Records (AT)",
+        "child": []
+    },
+    {
+        "parent": "ASC Records (South)",
+        "child": []
+    },
+    {
+        "parent": "The Assam Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "Bombay Engineer Group Records, Kirkee ",
+        "child": []
+    },
+    {
+        "parent": "Bengal Engineer Group Records, Roorkee ",
+        "child": []
+    },
+    {
+        "parent": "The Bihar Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "Corps of Military Police Records ",
+        "child": []
+    },
+    {
+        "parent": "The Dogra Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "Defence Security Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "EME Records ",
+        "child": []
+    },
+    {
+        "parent": "Gorkha Records ",
+        "child": []
+    },
+    {
+        "parent": "The Garhwal Rifles Records ",
+        "child": []
+    },
+    {
+        "parent": "The Gre-diers Records ",
+        "child": []
+    },
+    {
+        "parent": "Brigade of the Guards Records ",
+        "child": []
+    },
+    {
+        "parent": "Intelligence Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "JAK LI Records ",
+        "child": []
+    },
+    {
+        "parent": "JAK RIF Records ",
+        "child": []
+    },
+    {
+        "parent": "The Jat Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Kumaon Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Ladakh Scouts Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Madras Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Mahar Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "Madras Engineer Group Records ",
+        "child": []
+    },
+    {
+        "parent": "Mechanised Infantry Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Maratha LI Records ",
+        "child": []
+    },
+    {
+        "parent": "The Parachute Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Pnr Corps Records ",
+        "child": []
+    },
+    {
+        "parent": "The Presidents Bodyguards Records ",
+        "child": []
+    },
+    {
+        "parent": "The Punjab Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Rajputa- Rifles Records ",
+        "child": []
+    },
+    {
+        "parent": "The Rajput Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "RVC Records ",
+        "child": []
+    },
+    {
+        "parent": "The Sig-ls Records ",
+        "child": []
+    },
+    {
+        "parent": "The Sikh Regiment Records ",
+        "child": []
+    },
+    {
+        "parent": "The Sikh LI Records ",
+        "child": []
+    },
+    {
+        "parent": "MP-8 (I of R) ",
+        "child": []
+    },
+    {
+        "parent": "MP-5 (b)",
+        "child": []
+    },
+    {
+        "parent": "MPRS (O)",
+        "child": []
+    },
+    {
+        "parent": "Navy ",
+        "child": []
+    },
+    {
+        "parent": "Grant/ Restoration of Membership",
+        "child": []
+    },
+    {
+        "parent": "Contribution/ Exemption/ Refund of Dual Payment of ECHS Membership",
+        "child": []
+    },
+    {
+        "parent": "Grant / Refund of FMA",
+        "child": []
+    },
+    {
+        "parent": "Membership in case of Family Discord",
+        "child": []
+    },
+    {
+        "parent": "Misc Issues",
+        "child": []
+    },
+    {
+        "parent": "Applying for New ECHS Card",
+        "child": []
+    },
+    {
+        "parent": "Payment of ECHS Card",
+        "child": []
+    },
+    {
+        "parent": "Verification of ECHS Card",
+        "child": []
+    },
+    {
+        "parent": "Non Receipt of ECHS Card/ OTP",
+        "child": []
+    },
+    {
+        "parent": "Erroneous Printing of Card",
+        "child": []
+    },
+    {
+        "parent": "Change in Data of Existing Card",
+        "child": []
+    },
+    {
+        "parent": "Transfer of Parent PC",
+        "child": []
+    },
+    {
+        "parent": "Non Activation of Newly Printed Card",
+        "child": []
+    },
+    {
+        "parent": "Issue of White Card",
+        "child": []
+    },
+    {
+        "parent": "Renewal of Temp Slip",
+        "child": []
+    },
+    {
+        "parent": "Clarification on Medical Procedures",
+        "child": []
+    },
+    {
+        "parent": "Problem faced at ECHS PC",
+        "child": []
+    },
+    {
+        "parent": "Problem faced at Service Hosp",
+        "child": []
+    },
+    {
+        "parent": "Problem faced at Emp Hospital",
+        "child": []
+    },
+    {
+        "parent": "Non Availability of Medicines",
+        "child": []
+    },
+    {
+        "parent": "Clarification on NMI Cases",
+        "child": []
+    },
+    {
+        "parent": "Partial/Non Receipt of Med Claim",
+        "child": []
+    },
+    {
+        "parent": "Erroneous deduction of Med Claim",
+        "child": []
+    },
+    {
+        "parent": "Issue of EIR",
+        "child": []
+    },
+    {
+        "parent": "Related to Polyclinic Facilities",
+        "child": []
+    },
+    {
+        "parent": "Related to Service Hospital Facilities",
+        "child": []
+    },
+    {
+        "parent": "Related to Emp Hospital Facilities",
+        "child": []
+    },
+    {
+        "parent": "Related to ECHS Irregularities",
+        "child": []
+    },
+    {
+        "parent": "Selection/ Termination of staff",
+        "child": []
+    },
+    {
+        "parent": "Pay & Allowance",
+        "child": []
+    },
+    {
+        "parent": "Membership",
+        "child": []
+    },
+    {
+        "parent": "Contribution",
+        "child": []
+    },
+    {
+        "parent": "Contractual Staff: ECHS PC",
+        "child": []
+    },
+    {
+        "parent": "ECHS Polyclinics",
+        "child": []
+    },
+    {
+        "parent": "Medical Services and Procedures",
+        "child": []
+    },
+    {
+        "parent": "Reimbursement of Medical Claim",
+        "child": []
+    },
+    {
+        "parent": "ECHS Card",
+        "child": []
+    },
+    {
+        "parent": "Discipline",
+        "child": []
+    },
+    {
+        "parent": "Pay & allowances ",
+        "child": []
+    },
+    {
+        "parent": "Arrears of pay & allowances",
+        "child": []
+    },
+    {
+        "parent": "Pension disbursement ",
+        "child": []
+    },
+    {
+        "parent": "Pension documentation",
+        "child": []
+    },
+    {
+        "parent": "Pension entitlement",
+        "child": []
+    },
+    {
+        "parent": "Pension software related technical issues",
+        "child": []
+    },
+    {
+        "parent": "Procurement by DAD Hqrs office",
+        "child": []
+    },
+    {
+        "parent": "Procurement by field offices",
+        "child": []
+    },
+    {
+        "parent": "Procurement by services , to be paid by controllers",
+        "child": []
+    },
+    {
+        "parent": "Army ",
+        "child": []
+    },
+    {
+        "parent": "DAD",
+        "child": []
+    },
+    {
+        "parent": "Civilians",
+        "child": []
+    },
+    {
+        "parent": "Non-DAD",
+        "child": []
+    },
+    {
+        "parent": "Air Force",
+        "child": []
+    },
+    {
+        "parent": "Defence Civilian",
+        "child": []
+    },
+    {
+        "parent": "Casual labor regularization",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Compassionate appointment",
+        "child": []
+    },
+    {
+        "parent": "Manpower authorization in Controllers office",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Work related to Recruitment Rules (RRs) in respect of all posts and its amendments",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Cadre Review",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Release of Vacancies for direct recruitment",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Recruitment of candidates selected through different recruitment agencies",
+        "child": [
+            "IDS",
+            "AO",
+            "Sr. AO",
+            "AAO",
+            "Others"
+        ]
+    },
+    {
+        "parent": "IDS",
+        "child": []
+    },
+    {
+        "parent": "AO",
+        "child": []
+    },
+    {
+        "parent": "Sr. AO",
+        "child": []
+    },
+    {
+        "parent": "AAO",
+        "child": []
+    },
+    {
+        "parent": "AirForce",
+        "child": []
+    },
+    {
+        "parent": "DGQA",
+        "child": []
+    },
+    {
+        "parent": "NCC",
+        "child": []
+    },
+    {
+        "parent": "Action Groups Aimed at Social Reconstruction AGRASAR",
+        "child": []
+    },
+    {
+        "parent": "Senior Able Citizens for Re employmet in Dignity SACRED",
+        "child": []
+    },
+    {
+        "parent": "Financial Assistance",
+        "child": []
+    },
+    {
+        "parent": "Skill Development Training",
+        "child": []
+    },
+    {
+        "parent": "release of grant for IRCA/CPLI/ODIC/SLCA/DDAC",
+        "child": []
+    },
+    {
+        "parent": "Release of grant to states/Uts",
+        "child": []
+    },
+    {
+        "parent": "Release of GIA to Schools, Colleges, Universities Districts administrations",
+        "child": []
+    },
+    {
+        "parent": "Grant in aid to AIIMS for ATFS",
+        "child": []
+    },
+    {
+        "parent": "Release pf gramt to Municipals corporations and NGOs",
+        "child": []
+    },
+    {
+        "parent": "release of grant to NGOs/CBOs/Govt agencies through DBT Mode",
+        "child": []
+    },
+    {
+        "parent": "Skill Training",
+        "child": []
+    },
+    {
+        "parent": "OBC/EBC/DNTs",
+        "child": [
+            "Skill Training"
+        ]
+    },
+    {
+        "parent": "Safai Karamcharis Waste Pickers",
+        "child": [
+            "Skill Training"
+        ]
+    },
+    {
+        "parent": "Inter Caste Marriages",
+        "child": []
+    },
+    {
+        "parent": "Scheme for Celebration of Birth /Death Anniversary of Great Saints",
+        "child": []
+    },
+    {
+        "parent": "Medical Aid Scheme",
+        "child": []
+    },
+    {
+        "parent": "Excellence Award",
+        "child": []
+    },
+    {
+        "parent": "Dr. Ambedkar Chair Scheme",
+        "child": []
+    },
+    {
+        "parent": "National Esaay Competition Scheme",
+        "child": []
+    },
+    {
+        "parent": "Collected work of Babasaheb ambedkar  Bedkar CWBA",
+        "child": []
+    },
+    {
+        "parent": "Scheduled Castes Scheduled Tribes Victims of Atrocities",
+        "child": []
+    },
+    {
+        "parent": "Award for Social Understandig and Uplitment of weaker Sections",
+        "child": []
+    },
+    {
+        "parent": "Award for Social change",
+        "child": []
+    },
+    {
+        "parent": "National Merit Award for Secondary Examination",
+        "child": []
+    },
+    {
+        "parent": "Permanent Duty claim",
+        "child": []
+    },
+    {
+        "parent": "Leave Encashment",
+        "child": []
+    },
+    {
+        "parent": "Temporary Duty Claim",
+        "child": []
+    },
+    {
+        "parent": "Training Allowance",
+        "child": []
+    },
+    {
+        "parent": "Pay Related",
+        "child": []
+    },
+    {
+        "parent": "Monetary Allowance for Gallantry Awards",
+        "child": []
+    },
+    {
+        "parent": "Medical allowance",
+        "child": []
+    },
+    {
+        "parent": "SAIL",
+        "child": [
+            "Bhilai Steel Plant",
+            "Durgapur Steel Plant",
+            "Alloy Steel Plant",
+            "Rourkela Steel Plant",
+            "Bokaro Steel Plant",
+            "IISCO Steel Plant",
+            "Central Marketing Office",
+            "Salem Steel Plant",
+            "Visvesvaraya Iron and Steel Plant",
+            "Ranchi Units"
+        ]
+    },
+    {
+        "parent": "NMDC",
+        "child": [
+            "Kirandul Complex",
+            "Bacheli Complex",
+            "Donimalai Iron Ore/Mine",
+            "Diamond Mining Project, Panna",
+            "Sponge Iron Unit, Paloncha",
+            "NISP, Nagarnar"
+        ]
+    },
+    {
+        "parent": "RINL",
+        "child": []
+    },
+    {
+        "parent": "MOIL",
+        "child": []
+    },
+    {
+        "parent": "MECON",
+        "child": []
+    },
+    {
+        "parent": "MSTC",
+        "child": []
+    },
+    {
+        "parent": "FSNL",
+        "child": []
+    },
+    {
+        "parent": "KIOCL",
+        "child": []
+    },
+    {
+        "parent": "EIL, BSLC and OMDC",
+        "child": []
+    },
+    {
+        "parent": "Bhilai Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Durgapur Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Alloy Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Rourkela Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Bokaro Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "IISCO Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Central Marketing Office",
+        "child": []
+    },
+    {
+        "parent": "Salem Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Visvesvaraya Iron and Steel Plant",
+        "child": []
+    },
+    {
+        "parent": "Ranchi Units",
+        "child": []
+    },
+    {
+        "parent": "Kirandul Complex",
+        "child": []
+    },
+    {
+        "parent": "Bacheli Complex",
+        "child": []
+    },
+    {
+        "parent": "Donimalai Iron Ore/Mine",
+        "child": []
+    },
+    {
+        "parent": "Diamond Mining Project, Panna",
+        "child": []
+    },
+    {
+        "parent": "Sponge Iron Unit, Paloncha",
+        "child": []
+    },
+    {
+        "parent": "NISP, Nagarnar",
+        "child": []
+    },
+    {
+        "parent": "Assam Nagaland GDC",
+        "child": []
+    },
+    {
+        "parent": "Andhra Pradesh GDC",
+        "child": []
+    },
+    {
+        "parent": "Chhattishgarh GDC Raipur",
+        "child": []
+    },
+    {
+        "parent": "Eastern Printing Group",
+        "child": []
+    },
+    {
+        "parent": "DMC Dehradun",
+        "child": []
+    },
+    {
+        "parent": "EASTERN ZONE",
+        "child": []
+    },
+    {
+        "parent": "GIS RS Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "GUJARAT DAMAN DIU GDC",
+        "child": []
+    },
+    {
+        "parent": "GRB Dehradun",
+        "child": []
+    },
+    {
+        "parent": "HIMACHAL PRADESH GDC",
+        "child": []
+    },
+    {
+        "parent": "International Boundary Directorate SGO",
+        "child": []
+    },
+    {
+        "parent": "JHARKHAND GDC",
+        "child": []
+    },
+    {
+        "parent": "JAMMU KASHMIR GDC",
+        "child": []
+    },
+    {
+        "parent": "Kerala lakshdweep GDC",
+        "child": []
+    },
+    {
+        "parent": "Karnatka gdc Bangaluru",
+        "child": []
+    },
+    {
+        "parent": "MADC Dehradun",
+        "child": []
+    },
+    {
+        "parent": "Megalaya AP GDC",
+        "child": []
+    },
+    {
+        "parent": "Maharashtra Goa GDC",
+        "child": []
+    },
+    {
+        "parent": "Madhya Pradesh GDC Jabalpur",
+        "child": []
+    },
+    {
+        "parent": "Northern Eastern Zone Shillong",
+        "child": []
+    },
+    {
+        "parent": "NGDC Dehradun",
+        "child": []
+    },
+    {
+        "parent": "Northern Printing Group",
+        "child": []
+    },
+    {
+        "parent": "ORISSA GDC",
+        "child": []
+    },
+    {
+        "parent": "PUNJAB HARYANA AND CHANDIGARH G D C",
+        "child": []
+    },
+    {
+        "parent": "RAJASTHAN GDC",
+        "child": []
+    },
+    {
+        "parent": "Rajasthan GDC jaipur",
+        "child": []
+    },
+    {
+        "parent": "Survey air Delhi GDc New Delhi",
+        "child": []
+    },
+    {
+        "parent": "Specialized Zone Dehradun",
+        "child": []
+    },
+    {
+        "parent": "Southern Printing Group",
+        "child": []
+    },
+    {
+        "parent": "SOUTHERN ZONE",
+        "child": []
+    },
+    {
+        "parent": "Tripura Manipur Miz GDC Silchar",
+        "child": []
+    },
+    {
+        "parent": "Tamilnadu P ANI GDC Chennai",
+        "child": []
+    },
+    {
+        "parent": "UTTARAKHAND GDC",
+        "child": []
+    },
+    {
+        "parent": "East Uttar Pradesh GDC",
+        "child": []
+    },
+    {
+        "parent": "WEST BENGAL AND SIKKIM GDC",
+        "child": []
+    },
+    {
+        "parent": "Western Printing Group",
+        "child": []
+    },
+    {
+        "parent": "WESTERN ZONE",
+        "child": []
+    },
+    {
+        "parent": "Northern Zone",
+        "child": []
+    },
+    {
+        "parent": "Central Zone, Jabalpur",
+        "child": []
+    },
+    {
+        "parent": "Establishment-I",
+        "child": []
+    },
+    {
+        "parent": "Establishment-II",
+        "child": []
+    },
+    {
+        "parent": "Pension Cell",
+        "child": []
+    },
+    {
+        "parent": "Science and Engineering Research Board",
+        "child": []
+    },
+    {
+        "parent": "Technology Information Forecasting and Assessment Council",
+        "child": []
+    },
+    {
+        "parent": "South Eastern Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Western Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Central Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Central Mine Planning and Design Institute",
+        "child": []
+    },
+    {
+        "parent": "Bharat Coking Coal Limited",
+        "child": []
+    },
+    {
+        "parent": "Northern Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Eastern Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "South Eastern Coalfields Limited (SECL)",
+        "child": []
+    },
+    {
+        "parent": "Western Coalfields Limited (WCL)",
+        "child": []
+    },
+    {
+        "parent": "Northern coalfields Ltd",
+        "child": []
+    },
+    {
+        "parent": "Mahanadi Coalfields Ltd",
+        "child": []
+    },
+    {
+        "parent": "Eastern Coalfields Ltd",
+        "child": []
+    },
+    {
+        "parent": "Bharat coking Coalfields Ltd",
+        "child": []
+    },
+    {
+        "parent": "Central Coalfields Limited (CCL)",
+        "child": []
+    },
+    {
+        "parent": "Central Mine Planning and Design Institute (CMPDI)",
+        "child": []
+    },
+    {
+        "parent": "Bharat Coking Coal Limited (BCCL)",
+        "child": []
+    },
+    {
+        "parent": "Mahanadi  Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Ministry of Coal",
+        "child": []
+    },
+    {
+        "parent": "coal india ltd",
+        "child": [
+            "Bharat Coking Coal Limited BCCL",
+            "Central Coalfields Limited",
+            "Mahanadi Coalfields Limited",
+            "Northern Coalfields Limited",
+            "Western Coalfields Limited",
+            "Southeastern Coalfields Limited",
+            "Eastern Coalfields Limited",
+            "coal Mine Plan and Design Institute"
+        ]
+    },
+    {
+        "parent": "Singareni Colleries  Company Ltd.",
+        "child": []
+    },
+    {
+        "parent": "Neyveli Lignite Ltd",
+        "child": []
+    },
+    {
+        "parent": "Bharat Coking Coal Limited BCCL",
+        "child": []
+    },
+    {
+        "parent": "Mahanadi Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "Southeastern Coalfields Limited",
+        "child": []
+    },
+    {
+        "parent": "coal Mine Plan and Design Institute",
+        "child": []
+    },
+    {
+        "parent": "Ministry of Statistics and Programme Implementation Officials",
+        "child": []
+    },
+    {
+        "parent": "Field Operation Division Officials",
+        "child": []
+    },
+    {
+        "parent": "Bengal Chemicals and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "Hindustan Antibiotics Limited",
+        "child": []
+    },
+    {
+        "parent": "Indian Drugs and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "Karnataka Antibiotics and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "Rajasthan Drugs and Pharmaceuticals Ltd",
+        "child": []
+    },
+    {
+        "parent": "Central Public Sector Enterprises (CPSEs) - VRS Related",
+        "child": [
+            "Bengal Chemicals and Pharmaceuticals Ltd",
+            "Hindustan Antibiotics Limited",
+            "Indian Drugs and Pharmaceuticals Ltd",
+            "Karnataka Antibiotics and Pharmaceuticals Ltd",
+            "Rajasthan Drugs and Pharmaceuticals Ltd"
+        ]
+    },
+    {
+        "parent": "Department related",
+        "child": []
+    },
+    {
+        "parent": "National Institute of Pharmaceutical Education and Research (NIPER) - VRS Related",
+        "child": [
+            "NIPER Mohali",
+            "NIPER Hyderabad",
+            "NIPER Guwahati",
+            "NIPER Raebareli",
+            "NIPER Ahmedabad",
+            "NIPER Hajipur",
+            "NIPER Kolkata"
+        ]
+    },
+    {
+        "parent": "National Pharmaceutical Pricing Authority",
+        "child": []
+    },
+    {
+        "parent": "National Institute of Pharmaceutical Education and Research (NIPER) - Irregularities in recruitment",
+        "child": [
+            "NIPER Mohali",
+            "NIPER Hyderabad",
+            "NIPER Guwahati",
+            "NIPER Raebareli",
+            "NIPER Ahmedabad",
+            "NIPER Hajipur",
+            "NIPER Kolkata"
+        ]
+    },
+    {
+        "parent": "National Institute of Pharmaceutical Education and Research (NIPER) - Salaries/arrears related",
+        "child": [
+            "NIPER Mohali",
+            "NIPER Hyderabad",
+            "NIPER Guwahati",
+            "NIPER Raebareli",
+            "NIPER Ahmedabad",
+            "NIPER Hajipur",
+            "NIPER Kolkata"
+        ]
+    },
+    {
+        "parent": "Central Public Sector Enterprises (CPSEs) - Salaries/arrears related",
+        "child": [
+            "Bengal Chemicals and Pharmaceuticals Ltd",
+            "Hindustan Antibiotics Limited",
+            "Indian Drugs and Pharmaceuticals Ltd",
+            "Karnataka Antibiotics and Pharmaceuticals Ltd",
+            "Rajasthan Drugs and Pharmaceuticals Ltd"
+        ]
+    },
+    {
+        "parent": "Central Public Sector Enterprises (CPSEs) - Pension related",
+        "child": [
+            "Bengal Chemicals and Pharmaceuticals Ltd",
+            "Hindustan Antibiotics Limited",
+            "Indian Drugs and Pharmaceuticals Ltd",
+            "Karnataka Antibiotics and Pharmaceuticals Ltd",
+            "Rajasthan Drugs and Pharmaceuticals Ltd"
+        ]
+    },
+    {
+        "parent": "National Institute of Pharmaceutical Education and Research (NIPER) - Service matters",
+        "child": [
+            "NIPER Mohali",
+            "NIPER Hyderabad",
+            "NIPER Guwahati",
+            "NIPER Raebareli",
+            "NIPER Ahmedabad",
+            "NIPER Hajipur",
+            "NIPER Kolkata"
+        ]
+    },
+    {
+        "parent": "Central Public Sector Enterprises (CPSEs) - Service matters",
+        "child": [
+            "Bengal Chemicals and Pharmaceuticals Ltd",
+            "Hindustan Antibiotics Limited",
+            "Indian Drugs and Pharmaceuticals Ltd",
+            "Karnataka Antibiotics and Pharmaceuticals Ltd",
+            "Rajasthan Drugs and Pharmaceuticals Ltd"
+        ]
+    },
+    {
+        "parent": "Service Provided",
+        "child": []
+    },
+    {
+        "parent": "Monetary Fraud",
+        "child": []
+    },
+    {
+        "parent": "Any other",
+        "child": []
+    },
+    {
+        "parent": "Encroachment matter of Waqf properties",
+        "child": []
+    },
+    {
+        "parent": "Illegal sale of Waqf properties",
+        "child": []
+    },
+    {
+        "parent": "Irregularity in the lease of Waqf Properties",
+        "child": []
+    },
+    {
+        "parent": "Illegal appointment in the Waqf Board",
+        "child": []
+    },
+    {
+        "parent": "Illegal construction in the Waqf land",
+        "child": []
+    },
+    {
+        "parent": "Delay in assessment",
+        "child": []
+    },
+    {
+        "parent": "Not assessed",
+        "child": []
+    },
+    {
+        "parent": "Delay in DBT/Cash amount",
+        "child": []
+    },
+    {
+        "parent": "Non receipt of amount",
+        "child": []
+    },
+    {
+        "parent": "Delay in providing Certificate",
+        "child": []
+    },
+    {
+        "parent": "Certificate not received",
+        "child": []
+    },
+    {
+        "parent": "Delay in placement",
+        "child": []
+    },
+    {
+        "parent": "Non Placement",
+        "child": []
+    },
+    {
+        "parent": "Delay from National Skill Development Corporation (NSDC)",
+        "child": []
+    },
+    {
+        "parent": "Not received from NSDC",
+        "child": []
+    },
+    {
+        "parent": "New Industrial Training Institutes (ITI) Affiliation  Related",
+        "child": []
+    },
+    {
+        "parent": "Trade and Units Addition related",
+        "child": []
+    },
+    {
+        "parent": "Show cause Notice related",
+        "child": []
+    },
+    {
+        "parent": "State Complaint   related",
+        "child": []
+    },
+    {
+        "parent": "Other Government Complaints",
+        "child": [
+            "Complaints received from Third Party",
+            "Complaints received from General Public"
+        ]
+    },
+    {
+        "parent": "related to Trade Units Increase",
+        "child": []
+    },
+    {
+        "parent": "related to Industrial Training Institutes (ITI) deactivation",
+        "child": []
+    },
+    {
+        "parent": "Related to unit updation",
+        "child": []
+    },
+    {
+        "parent": "Related to Student data updating",
+        "child": []
+    },
+    {
+        "parent": "Industrial Training Institutes (ITI) Loging in Issues",
+        "child": []
+    },
+    {
+        "parent": "Recruitment related",
+        "child": []
+    },
+    {
+        "parent": "Result related",
+        "child": []
+    },
+    {
+        "parent": "Employment related",
+        "child": []
+    },
+    {
+        "parent": "Towards mandatory status in State recruitments",
+        "child": []
+    },
+    {
+        "parent": "DARE (Department of Agricultural Research and Education)",
+        "child": []
+    },
+    {
+        "parent": "ICAR (Indian Council of Agricultural Research)",
+        "child": []
+    },
+    {
+        "parent": "CAU (Central Agricultural Universities)",
+        "child": [
+            "Dr. Rajendra Prasad Central Agricultural University, Pusa (Bihar)",
+            "Rani Laxmi Bai Central Agricultural University, Jhansi",
+            "Central Agricultural University Imphal",
+            "Appointment of VCs, Registrar, Deans, Nominees of Visitor and Representatives of Secretary (DARE)"
+        ]
+    },
+    {
+        "parent": "ASRB (Agricultural Scientist Recruitment Board)",
+        "child": [
+            "Appointment of Chairperson, Members",
+            "Other staff matters"
+        ]
+    },
+    {
+        "parent": "Prinicipal Scientist",
+        "child": [
+            "ICAR (Indian Council of Agricultural Research)",
+            "ASRB (Agricultural Scientist Recruitment Board)"
+        ]
+    },
+    {
+        "parent": "Scientists and Senior Scientists",
+        "child": []
+    },
+    {
+        "parent": "Dr. Rajendra Prasad Central Agricultural University, Pusa (Bihar)",
+        "child": []
+    },
+    {
+        "parent": "Rani Laxmi Bai Central Agricultural University, Jhansi",
+        "child": []
+    },
+    {
+        "parent": "Central Agricultural University Imphal",
+        "child": []
+    },
+    {
+        "parent": "Pension Payment Order (PPO) not issued",
+        "child": []
+    },
+    {
+        "parent": "Revision of pension",
+        "child": []
+    },
+    {
+        "parent": "Family pension- non payment",
+        "child": []
+    },
+    {
+        "parent": "Retirement benefit- non payment",
+        "child": []
+    },
+    {
+        "parent": "non payment of pension",
+        "child": []
+    },
+    {
+        "parent": "Recruitment Rules",
+        "child": []
+    },
+    {
+        "parent": "Appointment/ recruitment",
+        "child": []
+    },
+    {
+        "parent": "Scrutiny of application",
+        "child": []
+    },
+    {
+        "parent": "Vacancy advertisement",
+        "child": []
+    },
+    {
+        "parent": "Vacancy",
+        "child": []
+    },
+    {
+        "parent": "Establishment I",
+        "child": []
+    },
+    {
+        "parent": "Establishment II",
+        "child": []
+    },
+    {
+        "parent": "Establishment III",
+        "child": []
+    },
+    {
+        "parent": "Establishment IV",
+        "child": []
+    },
+    {
+        "parent": "PSU",
+        "child": []
+    },
+    {
+        "parent": "Ground Water Establishment",
+        "child": []
+    },
+    {
+        "parent": "Controller of Accounts",
+        "child": []
+    },
+    {
+        "parent": "Pay and Accounts Office",
+        "child": []
+    },
+    {
+        "parent": "Administration Section",
+        "child": []
+    },
+    {
+        "parent": "WCR Ahmedabad",
+        "child": []
+    },
+    {
+        "parent": "NWR Chandigarh",
+        "child": []
+    },
+    {
+        "parent": "NR Lucknow",
+        "child": []
+    },
+    {
+        "parent": "SECR Chennai",
+        "child": []
+    },
+    {
+        "parent": "MER Patna",
+        "child": []
+    },
+    {
+        "parent": "CR Nagpur",
+        "child": []
+    },
+    {
+        "parent": "NER Guwahati",
+        "child": []
+    },
+    {
+        "parent": "NWHR Jammu",
+        "child": []
+    },
+    {
+        "parent": "SR Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "SER Bhubaneswar",
+        "child": []
+    },
+    {
+        "parent": "WR Jaipur",
+        "child": []
+    },
+    {
+        "parent": "NCR Bhopal",
+        "child": []
+    },
+    {
+        "parent": "NCCR Raipur",
+        "child": []
+    },
+    {
+        "parent": "SWR Bangalore",
+        "child": []
+    },
+    {
+        "parent": "ER Kolkata",
+        "child": []
+    },
+    {
+        "parent": "KR Trivandrum",
+        "child": []
+    },
+    {
+        "parent": "NHR Dharamshala",
+        "child": []
+    },
+    {
+        "parent": "UR  Dehradun",
+        "child": []
+    },
+    {
+        "parent": "RGI Raipur",
+        "child": []
+    },
+    {
+        "parent": "Div I Ahmedabad",
+        "child": []
+    },
+    {
+        "parent": "Div II  Ambala",
+        "child": []
+    },
+    {
+        "parent": "Div III Varanasi",
+        "child": []
+    },
+    {
+        "parent": "Div IV Chennai",
+        "child": []
+    },
+    {
+        "parent": "Div V Ranchi",
+        "child": []
+    },
+    {
+        "parent": "Div VI Nagpur",
+        "child": []
+    },
+    {
+        "parent": "Div VII Guwahati",
+        "child": []
+    },
+    {
+        "parent": "Div VIII Jammu",
+        "child": []
+    },
+    {
+        "parent": "Div IX Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "Div X Bhubaneswar",
+        "child": []
+    },
+    {
+        "parent": "Div XI Jodhpur",
+        "child": []
+    },
+    {
+        "parent": "Div XII Bhopal",
+        "child": []
+    },
+    {
+        "parent": "Div XIII Raipur",
+        "child": []
+    },
+    {
+        "parent": "Div XIV Bangalore",
+        "child": []
+    },
+    {
+        "parent": "Div XV Kolkata",
+        "child": []
+    },
+    {
+        "parent": "Div XVI Bareilly",
+        "child": []
+    },
+    {
+        "parent": "Div XVII Dharamshala",
+        "child": []
+    },
+    {
+        "parent": "SUO Agartala",
+        "child": []
+    },
+    {
+        "parent": "SUO Allahabad",
+        "child": []
+    },
+    {
+        "parent": "SUO Belagavi",
+        "child": []
+    },
+    {
+        "parent": "SUO Itanagar",
+        "child": []
+    },
+    {
+        "parent": "SUO Jodhpur",
+        "child": []
+    },
+    {
+        "parent": "SUO New Delhi",
+        "child": []
+    },
+    {
+        "parent": "SUO Pune",
+        "child": []
+    },
+    {
+        "parent": "SUO Ranchi",
+        "child": []
+    },
+    {
+        "parent": "SUO Shillong",
+        "child": []
+    },
+    {
+        "parent": "SUO Vishakhapattnam",
+        "child": []
+    },
+    {
+        "parent": "BBO Guwahati",
+        "child": []
+    },
+    {
+        "parent": "B and BBO Shillong",
+        "child": []
+    },
+    {
+        "parent": "Planning Circle Faridabad",
+        "child": []
+    },
+    {
+        "parent": "NWA Pune",
+        "child": []
+    },
+    {
+        "parent": "PAO CWC",
+        "child": []
+    },
+    {
+        "parent": "Narmada Basin Organisation",
+        "child": []
+    },
+    {
+        "parent": "Mahanandi and Eastern Rivers Organisation",
+        "child": []
+    },
+    {
+        "parent": "Monitoring South Bangalore",
+        "child": []
+    },
+    {
+        "parent": "Southern Rivers Coimbatore",
+        "child": []
+    },
+    {
+        "parent": "Indus Basin Organisation Chandigarh",
+        "child": []
+    },
+    {
+        "parent": "Narmada Tapi Basin Organisation",
+        "child": []
+    },
+    {
+        "parent": "Krishna Godavari Basin Organisation Hyderabadrabad",
+        "child": []
+    },
+    {
+        "parent": "UGBO, Lucknow",
+        "child": []
+    },
+    {
+        "parent": "Yamuna Basin Organisation",
+        "child": []
+    },
+    {
+        "parent": "LGBO Patna",
+        "child": []
+    },
+    {
+        "parent": "Teesta Basin Organisation",
+        "child": []
+    },
+    {
+        "parent": "Director E I",
+        "child": []
+    },
+    {
+        "parent": "Director E II",
+        "child": []
+    },
+    {
+        "parent": "Director Admin",
+        "child": []
+    },
+    {
+        "parent": "Director RMCD",
+        "child": []
+    },
+    {
+        "parent": "Director SMD",
+        "child": []
+    },
+    {
+        "parent": "Monitoring Central Nagpur",
+        "child": []
+    },
+    {
+        "parent": "Office of Chief Engineer North",
+        "child": []
+    },
+    {
+        "parent": "Office of Chief Engineer South Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "Office of Superintending Engineer Inv Circle Gwalior",
+        "child": []
+    },
+    {
+        "parent": "Office of Superintending Engineer Inv Circle Bhubneswar",
+        "child": []
+    },
+    {
+        "parent": "Office of Superintending Engineer Inv Circle Patna",
+        "child": []
+    },
+    {
+        "parent": "Office of Superintending Engineer Inv Circle Valsad",
+        "child": []
+    },
+    {
+        "parent": "Office of Superintending Engineer  Inv Circle Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Jhansi",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Bhopal",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Gwalior",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Bhubneswar",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Kolkata",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Patna",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Lucknow",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Valsad",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Vadodra",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Nashik I",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Nashik II",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Hyderabad",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Bangalore",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Chennai",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Nagpur",
+        "child": []
+    },
+    {
+        "parent": "Office of Executive Engineer Inv Division Chhatarpur",
+        "child": []
+    },
+    {
+        "parent": "Office of Assistant Engineer Inv Sub Division Jaipur",
+        "child": []
+    },
+    {
+        "parent": "Office of Assistant Engineer Inv Sub Division Ranchi",
+        "child": []
+    },
+    {
+        "parent": "Office of Assistant Engineer Inv Sub Division Rajamundary",
+        "child": []
+    },
+    {
+        "parent": "Declaration of Result",
+        "child": []
+    },
+    {
+        "parent": "Revaluation of Marks",
+        "child": []
+    },
+    {
+        "parent": "Recruitment of Apex Post in Autonomous Societies",
+        "child": []
+    },
+    {
+        "parent": "Recruitment of Apex Post in Attached Offices/ Statutory Organisations",
+        "child": []
+    },
+    {
+        "parent": "Regular/In-situ",
+        "child": []
+    },
+    {
+        "parent": "MACP Scheme",
+        "child": []
+    },
+    {
+        "parent": "CoEs on AI, IoT, Gaming, VFX, Blockchain, AR/VR etc and National AI Portal",
+        "child": []
+    },
+    {
+        "parent": "Policy matters related to Emerging Technologies, Data Governance Framework and National Program on Artificial Intelligence",
+        "child": []
+    },
+    {
+        "parent": "Formulation of new projects/strategy papers/activities in the area of Emerging Technologies",
+        "child": []
+    },
+    {
+        "parent": "Roll out of Emerging Technologies based solutions for use cases of various Agencies/Departments and States",
+        "child": []
+    },
+    {
+        "parent": "NGDRS",
+        "child": []
+    },
+    {
+        "parent": "ULPIN",
+        "child": []
+    },
+    {
+        "parent": "ILIMS",
+        "child": []
+    },
+    {
+        "parent": "Survey/resurvey",
+        "child": []
+    },
+    {
+        "parent": "Computerization of Land Records",
+        "child": []
+    },
+    {
+        "parent": "Computerization of Registration",
+        "child": []
+    },
+    {
+        "parent": "Establishment of Modern Record Room",
+        "child": []
+    },
+    {
+        "parent": "Integration of Aadhar Number with  Land records",
+        "child": []
+    },
+    {
+        "parent": "Manpower",
+        "child": []
+    },
+    {
+        "parent": "Finance",
+        "child": []
+    },
+    {
+        "parent": "Scientific Evaluation",
+        "child": []
+    },
+    {
+        "parent": "e-Portal Related issue",
+        "child": []
+    },
+    {
+        "parent": "Fellowships issues (Foreign)",
+        "child": []
+    },
+    {
+        "parent": "Fellowship Issues (Foreign)",
+        "child": []
+    },
+    {
+        "parent": "Transfer",
+        "child": []
+    },
+    {
+        "parent": "Recruitments (Administrative and Technical Staff)",
+        "child": []
+    },
+    {
+        "parent": "Out sources (DEO/MTS)",
+        "child": []
+    },
+    {
+        "parent": "Salary",
+        "child": []
+    },
+    {
+        "parent": "Service Matter",
+        "child": []
+    },
+    {
+        "parent": "Pension",
+        "child": []
+    },
+    {
+        "parent": "Reservation Policy",
+        "child": []
+    },
+    {
+        "parent": "Creation of Post",
+        "child": []
+    },
+    {
+        "parent": "Matters related to Governing Council and Executive Council",
+        "child": []
+    },
+    {
+        "parent": "Service Matter (Scientific Post)",
+        "child": []
+    },
+    {
+        "parent": "Foreign visit",
+        "child": []
+    },
+    {
+        "parent": "Recruitments (Scientific Post)",
+        "child": []
+    },
+    {
+        "parent": "Harassment",
+        "child": []
+    },
+    {
+        "parent": "Court Case",
+        "child": []
+    },
+    {
+        "parent": "COVID-19",
+        "child": []
+    },
+    {
+        "parent": "Research on Communicable disease",
+        "child": []
+    },
+    {
+        "parent": "TB",
+        "child": []
+    },
+    {
+        "parent": "Muscular Dystrophy",
+        "child": []
+    },
+    {
+        "parent": "Mental Health",
+        "child": []
+    },
+    {
+        "parent": "ENT",
+        "child": []
+    },
+    {
+        "parent": "Snake Bite",
+        "child": []
+    },
+    {
+        "parent": "Cardiovascular Disease",
+        "child": []
+    },
+    {
+        "parent": "Surrogacy",
+        "child": []
+    },
+    {
+        "parent": "Reproductive Biology",
+        "child": []
+    },
+    {
+        "parent": "Nutrition",
+        "child": []
+    },
+    {
+        "parent": "Child Health",
+        "child": []
+    },
+    {
+        "parent": "Stem Cell Therapy",
+        "child": []
+    },
+    {
+        "parent": "Genetic Disorder",
+        "child": []
+    },
+    {
+        "parent": "Rare Disease",
+        "child": []
+    },
+    {
+        "parent": "ICMR-DHR International Fellowship",
+        "child": []
+    },
+    {
+        "parent": "JRF",
+        "child": []
+    },
+    {
+        "parent": "MD-MS thesis fellowship",
+        "child": []
+    },
+    {
+        "parent": "ICMR-PDF fellowships",
+        "child": []
+    },
+    {
+        "parent": "International Health",
+        "child": []
+    },
+    {
+        "parent": "Health Communication",
+        "child": []
+    },
+    {
+        "parent": "Policy related matters",
+        "child": []
+    },
+    {
+        "parent": "COVID-19 report",
+        "child": []
+    },
+    {
+        "parent": "Socio-Behavioural",
+        "child": []
+    },
+    {
+        "parent": "Health system Research",
+        "child": []
+    },
+    {
+        "parent": "Grant related",
+        "child": []
+    },
+    {
+        "parent": "Procurement related",
+        "child": []
+    },
+    {
+        "parent": "BMHRC Hospital related",
+        "child": []
+    },
+    {
+        "parent": "Employee related",
+        "child": []
+    },
+    {
+        "parent": "Procurement",
+        "child": []
+    },
+    {
+        "parent": "Research",
+        "child": []
+    },
+    {
+        "parent": "Research on mulitypes viruses",
+        "child": []
+    },
+    {
+        "parent": "Malaria related",
+        "child": []
+    },
+    {
+        "parent": "Vector Born Disease",
+        "child": []
+    },
+    {
+        "parent": "HIV (Care, Treatment and Vaccine)",
+        "child": []
+    },
+    {
+        "parent": "Pulmonary TB",
+        "child": []
+    },
+    {
+        "parent": "Corrouption related",
+        "child": []
+    },
+    {
+        "parent": "Leprosy",
+        "child": []
+    },
+    {
+        "parent": "Tribal Heatlh issues",
+        "child": []
+    },
+    {
+        "parent": "Cancer",
+        "child": []
+    },
+    {
+        "parent": "Trematode Infection",
+        "child": []
+    },
+    {
+        "parent": "Medical Plants of North-East India",
+        "child": []
+    },
+    {
+        "parent": "Cardiovascular Diseases",
+        "child": []
+    },
+    {
+        "parent": "Mental Illness",
+        "child": []
+    },
+    {
+        "parent": "National Ethical Guidelines",
+        "child": []
+    },
+    {
+        "parent": "Environemental Health Research",
+        "child": []
+    },
+    {
+        "parent": "Fertility Regulation",
+        "child": []
+    },
+    {
+        "parent": "Reproductive Tract Infection including HIV/AIDS",
+        "child": []
+    },
+    {
+        "parent": "Adult Stemcell Biology",
+        "child": []
+    },
+    {
+        "parent": "Tradional Medicine",
+        "child": []
+    },
+    {
+        "parent": "Medical Devices",
+        "child": []
+    },
+    {
+        "parent": "Innovation related",
+        "child": []
+    },
+    {
+        "parent": "Rules 2016",
+        "child": []
+    },
+    {
+        "parent": "Rules 2008 and before",
+        "child": []
+    },
+    {
+        "parent": "Senior Lead",
+        "child": []
+    },
+    {
+        "parent": "Lead",
+        "child": []
+    },
+    {
+        "parent": "Specialist",
+        "child": []
+    },
+    {
+        "parent": "Senior Specialist",
+        "child": []
+    },
+    {
+        "parent": "Senior Associate",
+        "child": []
+    },
+    {
+        "parent": "Associate",
+        "child": []
+    },
+    {
+        "parent": "Status of Application",
+        "child": []
+    },
+    {
+        "parent": "Air Quality Management Policy  and  related Bilateral issues",
+        "child": []
+    },
+    {
+        "parent": "Air Quality Management plans.",
+        "child": []
+    },
+    {
+        "parent": "Source Apportionment Studies",
+        "child": []
+    },
+    {
+        "parent": "Vehicular Pollution Control",
+        "child": []
+    },
+    {
+        "parent": "Climate Change",
+        "child": []
+    },
+    {
+        "parent": "Utilization of EPC funds",
+        "child": []
+    },
+    {
+        "parent": "National Air Quality Monitoring Programs (Manual Stations)   other than Delhi and NCR",
+        "child": []
+    },
+    {
+        "parent": "Co-ordination of Grid Monitoring plan.",
+        "child": []
+    },
+    {
+        "parent": "Air Quality Monitoring Network",
+        "child": []
+    },
+    {
+        "parent": "Air Quality Data",
+        "child": []
+    },
+    {
+        "parent": "Health impacts of Air Pollution",
+        "child": []
+    },
+    {
+        "parent": "Chemical Industry",
+        "child": [
+            "Chloralkali",
+            "Dyes  and Dye Intermediate",
+            "Fertilizer",
+            "Oil Refineries",
+            "Pesticides",
+            "Petro-Chemicals",
+            "Pharmaceuticals",
+            "Paints  and  Enamel",
+            "All industries of Chemical in nature (Organic and In-organic)",
+            "Copper",
+            "Zinc"
+        ]
+    },
+    {
+        "parent": "Energy  and  Metallurgical",
+        "child": [
+            "Aluminium",
+            "Integrated Iron  and  Steel",
+            "Dust (PM) Emitting Industries",
+            "Mining",
+            "Cement",
+            "Thermal Power Plants",
+            "Coal Mining",
+            "Non-Coal Mining",
+            "Asbestos"
+        ]
+    },
+    {
+        "parent": "Agro Based",
+        "child": [
+            "Sugar",
+            "Distilleries",
+            "Pulp  and  Paper",
+            "Textiles",
+            "Food  and  Beverages",
+            "Soft Drinks Policies"
+        ]
+    },
+    {
+        "parent": "Animal Products",
+        "child": [
+            "Dairies",
+            "Tanneries",
+            "Slaughter Houses"
+        ]
+    },
+    {
+        "parent": "Small Scale Industries (SSI)",
+        "child": [
+            "Foundry and Furnaces",
+            "Stone Crushers",
+            "Hot Mix Plants",
+            "Brick Kilns",
+            "Rice Mills  and  Small Scale Industries",
+            "Siting Policies  and  Technology Development"
+        ]
+    },
+    {
+        "parent": "Industrial Pollution Coordination",
+        "child": [
+            "17 Categories of Industries",
+            "Red Categories of Industries",
+            "Categorization of Industries",
+            "Review of Standards",
+            "On-line Installations",
+            "Grossly Polluting Industries (other than Ganga)"
+        ]
+    },
+    {
+        "parent": "Industrial Clusters  and Enforcement",
+        "child": [
+            "Critically Polluted Industrial Clusters",
+            "CETPs",
+            "Vigilance and Directions",
+            "Environmental Clearances",
+            "Ecomark Scheme"
+        ]
+    },
+    {
+        "parent": "Urban Noise Pollution Assessment and Control including DG Sets",
+        "child": []
+    },
+    {
+        "parent": "Highways, Railways  and  Airports, Docks-harbour",
+        "child": []
+    },
+    {
+        "parent": "Construction and Demolition Waste Management",
+        "child": []
+    },
+    {
+        "parent": "Sewage and Sewage Treatment Plant",
+        "child": []
+    },
+    {
+        "parent": "National Coastal Mission",
+        "child": []
+    },
+    {
+        "parent": "Plastic Waste Management",
+        "child": []
+    },
+    {
+        "parent": "Municipal Solid Waste Management",
+        "child": []
+    },
+    {
+        "parent": "Sewage Management (Other than Ganga)",
+        "child": []
+    },
+    {
+        "parent": "MSW Model Facility",
+        "child": []
+    },
+    {
+        "parent": "Hazardous Waste Management",
+        "child": []
+    },
+    {
+        "parent": "Remediation  and  Policies",
+        "child": []
+    },
+    {
+        "parent": "Ship Breaking",
+        "child": []
+    },
+    {
+        "parent": "Bio-Medical Waste",
+        "child": []
+    },
+    {
+        "parent": "Authorization of Re-cyclers and TSDF  and  Waste-to-Energy related matters in coordination with UPCD dealing MSW.",
+        "child": []
+    },
+    {
+        "parent": "Electronic Waste Management",
+        "child": []
+    },
+    {
+        "parent": "Water Quality Monitoring of rivers, lakes, groundwater and coastal waters.",
+        "child": []
+    },
+    {
+        "parent": "Setting up of Real Time Water Quality Monitoring Stations",
+        "child": []
+    },
+    {
+        "parent": "Water Quality Restoration Plan",
+        "child": []
+    },
+    {
+        "parent": "Water Quality Monitoring of river Ganga including RTWQM",
+        "child": []
+    },
+    {
+        "parent": "Sewage Treatment of Ganga Towns and Drains (119 Towns)",
+        "child": []
+    },
+    {
+        "parent": "Industrial Pollution Control (Pollution Control Enforcement of Industries of Main Stem)",
+        "child": []
+    },
+    {
+        "parent": "(Independently to cover 764 GPI)",
+        "child": []
+    },
+    {
+        "parent": "Ambient Air Quality (Delhi and NCR)    CAAQMS  and  Manual",
+        "child": []
+    },
+    {
+        "parent": "CAAQMS (Nation-wide)",
+        "child": []
+    },
+    {
+        "parent": "Stack Monitoring",
+        "child": []
+    },
+    {
+        "parent": "Calibration Facilities",
+        "child": []
+    },
+    {
+        "parent": "Assessment of Air Toxic (Benzene, PAHs, etc)",
+        "child": []
+    },
+    {
+        "parent": "OHSMS",
+        "child": []
+    },
+    {
+        "parent": "QA / QC",
+        "child": []
+    },
+    {
+        "parent": "Pesticides",
+        "child": []
+    },
+    {
+        "parent": "PCBs, PAHs, Dioxin - Furan",
+        "child": []
+    },
+    {
+        "parent": "Water",
+        "child": []
+    },
+    {
+        "parent": "Waste water",
+        "child": []
+    },
+    {
+        "parent": "Soil",
+        "child": []
+    },
+    {
+        "parent": "Accreditation of labs",
+        "child": []
+    },
+    {
+        "parent": "Heavy metals",
+        "child": []
+    },
+    {
+        "parent": "Elements and  Ions in Ambient Particulate Matter",
+        "child": []
+    },
+    {
+        "parent": "Microbiology",
+        "child": []
+    },
+    {
+        "parent": "Toxicity",
+        "child": []
+    },
+    {
+        "parent": "Bio-monitoring (to be reported to In-charge WQM-I)",
+        "child": []
+    },
+    {
+        "parent": "Inter-state Yamuna Monitoring  (Supreme Court Matter AQFMY",
+        "child": []
+    },
+    {
+        "parent": "Office Maintenance",
+        "child": []
+    },
+    {
+        "parent": "Vehicle Maintenance",
+        "child": []
+    },
+    {
+        "parent": "Security",
+        "child": []
+    },
+    {
+        "parent": "Estate",
+        "child": []
+    },
+    {
+        "parent": "All matter related to Accounts Section  II",
+        "child": []
+    },
+    {
+        "parent": "All personal matters of officials and staff",
+        "child": []
+    },
+    {
+        "parent": "All matter related to Recruitment, Promotion and Medical.",
+        "child": []
+    },
+    {
+        "parent": "All matter related to material of officials and staff",
+        "child": []
+    },
+    {
+        "parent": "All matter related to Mediclaim of officials and staff",
+        "child": []
+    },
+    {
+        "parent": "JRF-NET/SPMF",
+        "child": [
+            "NET Exam",
+            "NET Result",
+            "JRF Award letter",
+            "Monthly Stipend",
+            "House Rent Allowance",
+            "Annual Contingency",
+            "JRF to SRF upgradation",
+            "PhD Registration",
+            "Leave",
+            "Transfer of fellowship",
+            "Change of Research Topic",
+            "Change of supervisor",
+            "Termination of Fellowship",
+            "Any other issue",
+            "JRF-NET Joining",
+            "JRF/SRF continuation"
+        ]
+    },
+    {
+        "parent": "JRF GATE",
+        "child": [
+            "JRF-GATE Joining",
+            "JRF-Award letter",
+            "Monthly Stipend",
+            "House Rent Allowance (HRA)",
+            "Annual Contingency",
+            "PhD Registration",
+            "JRF to SRF upgradation",
+            "JRF/SRF continuation",
+            "Leave",
+            "Transfer of fellowship",
+            "Change of Research Topic",
+            "Change of supervisor",
+            "Termination of Fellowship",
+            "Any other issue"
+        ]
+    },
+    {
+        "parent": "SRF-Direct",
+        "child": [
+            "Change of Research Topic",
+            "Monthly Stipend",
+            "House Rent Allowance (HRA)",
+            "Annual Contingency",
+            "Leave",
+            "Transfer of fellowship",
+            "Change of supervisor",
+            "Any other issue",
+            "SRF-Direct Result",
+            "SRF-Direct Joining",
+            "SRF-Award letter",
+            "SRF continuation",
+            "Termination of Fellowship"
+        ]
+    },
+    {
+        "parent": "RA",
+        "child": [
+            "Change of Research Topic",
+            "Monthly Stipend",
+            "House Rent Allowance (HRA)",
+            "Annual Contingency",
+            "Leave",
+            "Transfer of fellowship",
+            "Change of supervisor",
+            "Any other issue",
+            "RA Result",
+            "RA-Joining",
+            "RA-Award letter",
+            "RA continuation"
+        ]
+    },
+    {
+        "parent": "SRA",
+        "child": [
+            "Change of Research Topic",
+            "Monthly Stipend",
+            "House Rent Allowance (HRA)",
+            "Annual Contingency",
+            "Leave",
+            "Transfer of fellowship",
+            "Change of supervisor",
+            "Any other issue",
+            "SRA Result",
+            "SRA-Joining",
+            "SRA-Award letter",
+            "SRA continuation",
+            "Termination of Fellowship"
+        ]
+    },
+    {
+        "parent": "CSIR-NPDF",
+        "child": [
+            "Change of Research Topic",
+            "Monthly Stipend",
+            "House Rent Allowance (HRA)",
+            "Annual Contingency",
+            "Leave",
+            "Transfer of fellowship",
+            "Change of supervisor",
+            "Any other issue",
+            "PDF Result",
+            "PDF-Joining",
+            "PDF-Award letter",
+            "PDF continuation",
+            "Termination of Fellowship"
+        ]
+    },
+    {
+        "parent": "Symposia/Seminar Grants",
+        "child": [
+            "Status of New Proposal",
+            "Grant claim bill status",
+            "Any other issue"
+        ]
+    },
+    {
+        "parent": "Travel Grant",
+        "child": [
+            "Status of New Proposal",
+            "Grant claim bill status",
+            "Any other issue"
+        ]
+    },
+    {
+        "parent": "Partial Financial Assistance",
+        "child": [
+            "Status of New Proposal",
+            "Grant claim bill status",
+            "Any other issue"
+        ]
+    },
+    {
+        "parent": "General Scheme",
+        "child": [
+            "Grant-in-aid bill status",
+            "Renewal of Project Grant",
+            "Any other issue",
+            "New Project proposal Status"
+        ]
+    },
+    {
+        "parent": "Sponsored Scheme",
+        "child": [
+            "Grant-in-aid bill status",
+            "Renewal of Project Grant",
+            "Any other issue",
+            "New Project proposal Status"
+        ]
+    },
+    {
+        "parent": "Emeritus Scientist",
+        "child": [
+            "Grant-in-aid bill status",
+            "Renewal of Project Grant",
+            "Any other issue",
+            "New Emeritus proposal Status"
+        ]
+    },
+    {
+        "parent": "Delay in Declaration of Result",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Delay in holding of Interview",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Name missing from screening list",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Not selected for said post",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Objection to Screening Criteria",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Appplicaton Fee related",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Last date related",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "CSIR Headquarters and units",
+        "child": []
+    },
+    {
+        "parent": "Labs and institutes",
+        "child": []
+    },
+    {
+        "parent": "ACSIR",
+        "child": []
+    },
+    {
+        "parent": "Tender related",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Contract related including payments",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "GEM related",
+        "child": [
+            "CSIR Headquarters and units",
+            "Labs and institutes",
+            "ACSIR"
+        ]
+    },
+    {
+        "parent": "Approval of Proposal",
+        "child": []
+    },
+    {
+        "parent": "Status of Functionality of Hospitals & Ayush Wellness Centres",
+        "child": []
+    },
+    {
+        "parent": "Release of Grant",
+        "child": []
+    },
+    {
+        "parent": "Submission of Utilization Certificate",
+        "child": []
+    },
+    {
+        "parent": "Scheme not Started /under repair/defunct",
+        "child": []
+    },
+    {
+        "parent": "Pipeline laid",
+        "child": []
+    },
+    {
+        "parent": "Infrastructure (Storage tank) Related",
+        "child": []
+    },
+    {
+        "parent": "Scheme not started",
+        "child": []
+    },
+    {
+        "parent": "Inadequate supply",
+        "child": []
+    },
+    {
+        "parent": "Local  Purchase",
+        "child": []
+    },
+    {
+        "parent": "GeM",
+        "child": []
+    },
+    {
+        "parent": "Other ",
+        "child": []
+    },
+    {
+        "parent": "Claims ",
+        "child": []
+    },
+    {
+        "parent": "Representation ",
+        "child": []
+    },
+    {
+        "parent": "Vendor Payment",
+        "child": []
+    },
+    {
+        "parent": "Employee Payment",
+        "child": []
+    }
+]

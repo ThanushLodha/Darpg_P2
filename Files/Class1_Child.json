@@ -1,0 +1,1721 @@
+[
+    {
+        "parent": "Telecommunications",
+        "child": [
+            "Mobile Related",
+            "Pension Related",
+            "Broadband Related",
+            "Landline Related",
+            "Employee Related / Services Related",
+            "Tower Related",
+            "Malpractices / Corruption / Complaint Related to financial irregularities",
+            "Suggestions",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Posts",
+        "child": [
+            "Delay/ Non - Delivery/Abstraction of Postal Articles",
+            "Pension Related",
+            "Financial Scheme Related",
+            "Insurance Related",
+            "Employees Service Related",
+            "Allegation of Corruption/ Malpractices/Harassment",
+            "Atrocities Against",
+            "Aadhar and Post Office Passport Seva Kendra (POPSK) Related",
+            "E-commerce portal Related",
+            "Philately Related",
+            "ePost Office Related",
+            "Land Related",
+            "Others/Misc."
+        ]
+    },
+    {
+        "parent": "Banking",
+        "child": [
+            "Bank Locker Related",
+            "Deficiency in Customer Service Related",
+            "Education Loans Related",
+            "Housing Loan Related",
+            "Non Banking Finance Company (NBFC) other than Housing Finance Companies Related",
+            "Pradhan Mantri Jan Dhan Yojna (PMJDY) Related",
+            "Pradhan Mantri Mudra Yojana (PMMY) Related",
+            "Agricultural Matters Related",
+            "Credit/Debit/ATM Cards Related",
+            "Service Charges Related",
+            "Government sponsored Schemes Related",
+            "Fraud",
+            "Mobile Banking",
+            "Misappropriation",
+            "Misbehaviour/Harrassment/Corruption by Bank Staff",
+            "One Time Settlement of Loan",
+            "Opening of New Branches",
+            "Pradhan Mantri Jeevan Jyoti Yojna",
+            "Pradhan Mantri Jeevan Suraksha Yojana",
+            "Recruitment Related",
+            "Service Matter Related",
+            "Pension/Retirement Benefits Related",
+            "Stand Up India Related",
+            "Vacation of Premises",
+            "Miscellaneous/Others",
+            "DIGITAL PAYMENT"
+        ]
+    },
+    {
+        "parent": "Insurance",
+        "child": [
+            "Allegation on Corruption/Malpractice",
+            "Deficiency in Customer Service Related",
+            "Fraud",
+            "Agents and Surveyors Related",
+            "Misrepresentation by Agents",
+            "Non-settlement/Delay in Settlement/Less Settlement of Claims",
+            "Pradhan Mantri Vaya Vandana Yojana",
+            "Pradhan Mantri Suraksha Bima Yojna",
+            "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+            "Service Matters Related",
+            "Pension/Retirement Benefits Related",
+            "Miscellaneous/Others"
+        ]
+    },
+    {
+        "parent": "School Education",
+        "child": [
+            "Admission Related",
+            "Service Matter/Pension Related",
+            "Entrance Exam and Results Related",
+            "Degree/Certificate Related",
+            "Mid Day Meal Related",
+            "National Award for Teachers (NAT) Related",
+            "National Bal Bhawan (NBB) Related",
+            "National Foundation for Teacher Welfare (NFTW) Related",
+            "Health & Nutrition Related",
+            "Digital Initiative & ICT Components Related",
+            "Samagra Shiksha - 1",
+            "Adult Education and Admin.",
+            "Samagra Shiksha - 2",
+            "Statistics",
+            "Others/Misc",
+            "National Mean-cum-Merit Scholarship Scheme (NMMSS)",
+            "National Scheme of incentive to Girls for Secondary Education (NSIGSE)",
+            "Financial"
+        ]
+    },
+    {
+        "parent": "Road Transport and Highways",
+        "child": [
+            "Employee Related/Services Related",
+            "Pension Related",
+            "Construction & Maintenance of National Highways",
+            "Land Acquisition",
+            "User Free/Toll Related",
+            "Road Transport Related",
+            "Policiy Related",
+            "Suggestions/Miscellaneous/Others"
+        ]
+    },
+    {
+        "parent": "Health and Family Welfare",
+        "child": [
+            "Hospitals",
+            "Medicines",
+            "CGHS Health Centres",
+            "Medical Education",
+            "Financial Assistance for Medical Treatment",
+            "Health Schemes",
+            "Public Health",
+            "Food Regulation",
+            "Online Health Services",
+            "Policy Matters",
+            "MoHFW Employee Related",
+            "Other"
+        ]
+    },
+    {
+        "parent": "External Affairs",
+        "child": [
+            "Death Compensation not paid while being employed",
+            "Imprisonment due to illegal Stay in foreign country",
+            "Transportation of Mortal remains",
+            "Seafarers",
+            "Whereabouts Unknown",
+            "Normal Fresh/ Re-issue Passport application",
+            "Tatkaal  Passport application",
+            "Delay in issuance Police Clearance Certificate Application",
+            "Postal Issues (Dispatch of Passport)",
+            "Delay in  Issuance of Surrender Certificate",
+            "Value added service delivery issues",
+            "Indian Community Welfare Fund (ICWF) Related",
+            "Pravasi Bharatiya Bima Yojana (PBBY) Related",
+            "Marital Dispute with NRI/PIO",
+            "Student Related (Grievances of indian students abroad)",
+            "NRI/PIO Related issues",
+            "Illegal Agent Related",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Petroleum and Natural Gas",
+        "child": [
+            "Petrol Pump related",
+            "Price Related (Increase of price of petrol, diesel, LPG & Kerosene)",
+            "Appointment",
+            "LPG/LPG Agency related",
+            "CNG related",
+            "PNG related",
+            "Tender Related",
+            "Safety Issues Related",
+            "Employee / service related",
+            "Pension Related",
+            "Corruption related (VCs, employees)",
+            "Policy Related",
+            "Refinery Related",
+            "Exploration",
+            "Petrol Pump Allotment Related Issues",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Civil Aviation",
+        "child": [
+            "Airlines Related",
+            "Regional scheme",
+            "Employee related service Matters (Incl Ex employees, pensions and HR issues)",
+            "AAIB Related",
+            "Railway Safety Matters",
+            "Passenger Issues for Pawan Hans Helicopter Ltd.",
+            "Aiport Related issues",
+            "University Related Matters",
+            "Tariff and Finance regulation issues",
+            "Passenger harassment",
+            "Other DGCA matters",
+            "Aiport Security matters",
+            "Economic Reguation matters"
+        ]
+    },
+    {
+        "parent": "Higher Education",
+        "child": [
+            "Entrance Exam Related (NEET / JEE / NET / ARPIT / GPAT / IND SAT / NCHM / CMAT / IIFT / NLU)",
+            "Exam and Result Related",
+            "Fee Related",
+            "Admission Related",
+            "Book promotion ISBN etc.",
+            "Service Matter/Pension/Retirement Related",
+            "Scholarship Fellowship Related",
+            "Reservation Related",
+            "Corruption related",
+            "Policy Matter Related/ New Education Policy",
+            "Anti Ragging Related",
+            "Sexual Harrassement Related",
+            "Harrassement Related",
+            "Language institute",
+            "Miscelleneous/Others Grievances",
+            "Grievance regarding Indian students studying abroad"
+        ]
+    },
+    {
+        "parent": "Labour and Employment",
+        "child": [
+            "Cash Benefit",
+            "Medical Benefits",
+            "Medical Reimbursement",
+            "Non-Coverage , Non-compliance, Under Reporting",
+            "Online System Related Issues",
+            "Recruitment",
+            "Service Matters",
+            "Suggestions (ESIC)",
+            "Vigilance related",
+            "Others (ESIC)",
+            "Termination Related (Workman employed in any industry to do any manual, unskilled, skilled, technical, operational, clerical or supervisory work)",
+            "Non-Payment of wages Related (Workers getting wages Rs. 24000 or less)",
+            "Wages less than min. wages (Workers hired to any work skilled or unskilled, manual or clerical)",
+            "Non-payment of gratuity (Employees having rendered 5 years of length of service)",
+            "Maternity Benefit Related (Employed women not covered under ESI Act subject to the condition that she has worked at least 80 days in the 12 months immediately preceding the expected date of delivery)",
+            "Bonus Related (Employees getting wages Rs. 21000 or less subject to the condition that they have worked for more than 30 days)",
+            "Violation of terms of employment (Workman through group of workers or by trade union)",
+            "Service matter grievances related to O/o CLC (Officers/ staff working under CLC(C).)",
+            "PF Withdrawal",
+            "Pension",
+            "Compliance related Issues",
+            "Employer's grievance",
+            "Transfer related issues",
+            "Online Claim Application",
+            "National Data Center related issues",
+            "Cheque Returned / Misplaced",
+            "HR HQ and HR Field",
+            "Finance",
+            "Pension HQ",
+            "Compliance HQ",
+            "Exemption",
+            "Suggestions (EPFO)",
+            "Grievance not pertains to EPFO",
+            "Others (EPFO)"
+        ]
+    },
+    {
+        "parent": "Housing and Urban Affairs",
+        "child": [
+            "DDA (Delhi Development Authority)",
+            "Directorate of Estates",
+            "Principal Accounts Office",
+            "TCPO (Town and Country Planning Organisation)",
+            "NCRPB (National Capital Region Planning Board)",
+            "HPL (Hindustan Prefab Ltd.)",
+            "HUDCO (Housing and Urban Development Corporation)",
+            "NBO (National Buildings Organisation)",
+            "NCHFI (National Cooperative Housing Federation of India)",
+            "CGEWHO (Central Government Employee Welfare Housing Organisation)",
+            "NCRTC (National Capital Region Transport Corporation Ltd)",
+            "DUAC (Delhi Urban Arts Commission)",
+            "BMTPC (Building Materials & Technology Promotion Council )",
+            "Rajghat Samadhi Committee",
+            "GISO (Government of India Stationery Office)",
+            "NIUA (National Institute of Urban Affairs)",
+            "Department of Publication",
+            "DMRC (Delhi Metro Rail Corporation)",
+            "Schemes, Programs & Other Divisions under MoHUA",
+            "Directorate of Printing",
+            "NBCC",
+            "L&DO",
+            "CPWD",
+            "PMAY - URBAN/ Housing For All (HFA) Division",
+            "Delhi Division"
+        ]
+    },
+    {
+        "parent": "Railway",
+        "child": [
+            "Train and Station related grievances (redirect to RailMadad)",
+            "Land Acquisition",
+            "Construction of FOB/RUB/ROB",
+            "Construction /Renovation of Railway lines or Bridges",
+            "Pension",
+            "Pre Appointment",
+            "Service matter",
+            "Encroachment of FOB, ROB, RUB, LC Gate, Railway Premises",
+            "Bribery and Corruption other than Train and station",
+            "Complaint against staff other than Train and station",
+            "Tender/Contract Matters",
+            "Issues related to Introduction/Extension/Stoppage of trains",
+            "Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Personnel and Training",
+        "child": [
+            "Allegation of corruption / misconduct",
+            "All India Services",
+            "Appointment Related",
+            "DoP&T Employees Related",
+            "Institutes under DoP&T",
+            "Policy Related",
+            "Reservation issues in posts and services of Central Government",
+            "Training Matters",
+            "Union Public Service Commission (UPSC)",
+            "Vigilance/Disciplinary Matters",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Staff Selection Commission (SSC)",
+        "child": [
+            "Admit Card Related",
+            "Allegation of corruption/malpractice",
+            "Conduct of examination",
+            "Delay in Results",
+            "Document Verification",
+            "Exam Centre / Venue Related",
+            "Nomination",
+            "Normalisation / Cut off marks",
+            "Notice / Policy & Schedule of Exam",
+            "Open Examination",
+            "Questions / Answer Keys",
+            "Registration Related",
+            "Rejection of Application",
+            "Review of Results",
+            "Selection Posts",
+            "Service / Pension related",
+            "Skill Tests",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Central Board of Direct Taxes (Income Tax)",
+        "child": [
+            "Pension Related",
+            "Employee Related/ Services related",
+            "Administration related",
+            "Corruption/Malpractices related (VCs, employees)",
+            "Direct Taxes",
+            "PAN Issues",
+            "Technical Issues with website",
+            "Other/Misc/Suggestions"
+        ]
+    },
+    {
+        "parent": "Central Board of Indirect Taxes and Customs",
+        "child": [
+            "Indirect Taxes Related",
+            "CBIC Employee Related"
+        ]
+    },
+    {
+        "parent": "Department of Revenue",
+        "child": [
+            "Pension Related",
+            "Employee Related / Services Related",
+            "Corruption/Malpractices related",
+            "Technical Issues with Return Filing",
+            "Opium Poppy Cultivation",
+            "State Taxes related matters"
+        ]
+    },
+    {
+        "parent": "Home Affairs",
+        "child": [
+            "Employee Related/Services Related (Main Secretariat and SSO)",
+            "Award Related/Other National issues",
+            "Border related matters",
+            "Center State constitutional matters",
+            "Legislative Matters",
+            "National Disaster related mattters",
+            "Freedom Fighter pension related matter",
+            "Visa related matters and passport issue and verification",
+            "Citizenship matters",
+            "Foreign Contribution (FCRA) related matters",
+            "Internal security related matters (Including State police, excluding J&K and NE)",
+            "Complaint for security agencies",
+            "Arm possession and license related matters",
+            "VIP security matters",
+            "Jammu Kashmir and Ladakh matters",
+            "North Eastern matters",
+            "IPS related matters",
+            "Union Territory matters",
+            "AGMUT Cadre personnel matters",
+            "Crime related (Records, prisons and cyber cell)",
+            "Relief and Rehabilitation matter for Refugee, Repatriates",
+            "Enemy Property related matters",
+            "Matter Related to Unethical practices",
+            "Information Security",
+            "Registrar General & Census Commissioner of India",
+            "Security Forces Admin matters"
+        ]
+    },
+    {
+        "parent": "Rural Development",
+        "child": [
+            "Administration Related",
+            "Information, Education and Communication Division",
+            "Bill Related",
+            "BPL Division",
+            "DISHA Division",
+            "International Cooperation",
+            "Pradhan Mantri Awaas Yojana - Gramin (Rural)",
+            "Pradhan Mantri Gram Sadak Yojana",
+            "MGNREGA Related",
+            "Training & PC Division Related",
+            "District Rural Development Agency",
+            "National Social Assistance Programme",
+            "SAANSAD ADARSH GRAM YOJANA (SAGY)",
+            "RURBAN",
+            "NRLM",
+            "SKILLS Division"
+        ]
+    },
+    {
+        "parent": "Department of Justice",
+        "child": [
+            "Special Courts Related",
+            "Family Courts",
+            "National Judicial Academy related",
+            "e-Court",
+            "Judicial Infrastructure",
+            "Judicial Reforms",
+            "Administration of Supreme Court/High Court Judges",
+            "Access to Justice",
+            "Service Conditions of Supreme Court & High Court Judges",
+            "Legal Aid to Poor (NALSA)",
+            "Covid 19 related",
+            "Suggestions",
+            "Complaint against Judicial Officers",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Ministry of Corporate Affairs",
+        "child": [
+            "Company Incorporation- CRC",
+            "Investors Greivance",
+            "Company Law",
+            "Insolvency",
+            "Professional Institutes",
+            "Corporate Social Responsibility",
+            "Competition Commission of India",
+            "Matters related to National Financial Reporting Authority- NFRA",
+            "Investors Education & Protection Fund",
+            "Serious Fraud Investigation Organisation",
+            "IICA",
+            "Matters related to national company law tribunal- NCLT/NCLAT",
+            "Employee Related",
+            "Technical Matters- MCA-21 (eGovernance)",
+            "DIN - RD Office",
+            "Matters related to official language- Hindi",
+            "Competition Law ",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Department of Consumer Affairs",
+        "child": [
+            "Bereau of Indian Standard Division Related",
+            "Bereau of Indian Standard Organisation Related",
+            "Consumer welfare Fund Related",
+            "Consumer Protection Unit Related",
+            "ECRE Division Related",
+            "Emblems and Names Related",
+            "Establishment",
+            "General Administration Matters",
+            "Internal Trade Related",
+            "Legal Metrology Division Related",
+            "National Test House Division Related",
+            "Parliament & Coordination Division Related",
+            "Price Monitoring Cell Related",
+            "Publicity Division Related",
+            "The Central Consumer Protection Authority",
+            "Vigilance Related ",
+            "National Consumer Helpline Related issues"
+        ]
+    },
+    {
+        "parent": "M/o Women and Child Development",
+        "child": [
+            "Saksham Anganwadi and Poshan 2 (ICDS, Anganwadi, Poshan, SAG)",
+            "Mission Shakti (Women related)",
+            "Mission Vatsalya",
+            "National Commission for Protection of Child Rights",
+            "Central Adoption Resource Authority (CARA)",
+            "Administrative and other matters related to Central Social Welfare Board (CSWB)",
+            "Establishment and other matters related to Food and Nutrition Board (FNB)",
+            "Establishment and other matters related to Rashtriya Mahila Kosh (RMK)",
+            "National Institute of Public Cooperation and Child Development (NIPCCD)",
+            "Media related issues ",
+            "National Commission for Women (NCW)",
+            "NCW Administration",
+            "Administration"
+        ]
+    },
+    {
+        "parent": "Ministry of Information and Broadcasting",
+        "child": [
+            "Electronic/Media/OTT Content related",
+            "Uplinking/Downlinking Permission to PVt. Satellite TV Channel",
+            "Cable Operators",
+            "Registration and Subscription",
+            "Service Matters",
+            "Pension Matters",
+            "DTH Matters",
+            "Broadcasting Infrastructure",
+            "Community Radio Station",
+            "Press",
+            "Films",
+            "Disciplinary Vigilance Matters",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Department of Ex Servicemen Welfare",
+        "child": [
+            "Pension Related",
+            "Service Related",
+            "Policy Matter",
+            "Resettlement Related",
+            "Scheme Related",
+            "Other Matters"
+        ]
+    },
+    {
+        "parent": "Department of Defence Finance",
+        "child": [
+            "Technical Issue Related",
+            "GeM- Payment Related",
+            "Pay & Allowance",
+            "Pension",
+            "Service Matter Related",
+            "Miscellaneous Issues",
+            "Army",
+            "Navy ",
+            "Airforce"
+        ]
+    },
+    {
+        "parent": "Ministry of Parliamentary Affairs",
+        "child": [
+            "Legislative I Related",
+            "Legislative  II Related",
+            "Hindi Anubhag Related",
+            "Accounts  and Purchase Related",
+            "National e Vidhan Application (NeVA) Related",
+            "General Section Matters",
+            "Administration  and Establishment Related",
+            "Assurances in Lok Sabha Related",
+            "Assurances in Rajya Sabha Related",
+            "Consultative Committee Related",
+            "Research Related",
+            "Youth Parliament Related",
+            "Protocol and  Welfare Related",
+            "Members Emoluments Related",
+            "Minister's Personal Section Related",
+            "Other Matters"
+        ]
+    },
+    {
+        "parent": "Department of Atomic Energy",
+        "child": [
+            "REPEATED GRIEVANCE",
+            "Quality Of Service/Civic Amenities - Others",
+            "Employee Related - Service Matter",
+            "Harassment/Atrocities Against - Others",
+            "Other Central Government Related - Others",
+            "Police - Others",
+            "Harassment/Atrocities Against - SC/ST",
+            "Suggestion",
+            "Allegation Of Corruption/Malpractices - Others",
+            "State Government Related - Others",
+            "Employee Related - Pension",
+            "COVID-19 Related issues",
+            "Website Updating Issues",
+            "Transfer Related Grievance",
+            "Sexual Harassment",
+            "Setting up of Nuclear Facilities",
+            "Security Issues of DAE Installations",
+            "Reservation in Services",
+            "Radiation Medicine and Licence",
+            "Purchase and Stores Procedure",
+            "Public Awareness on Radiation and Nuclear Energy",
+            "Promotion Matters",
+            "PRIS",
+            "PERSONAL MATTER",
+            "Personal Claims and Entitlements",
+            "Pension and Gratuity",
+            "Pay Fixation Related Issues",
+            "Nuclear Treaty with Other Countries",
+            "Nuclear Energy and Atomic Minerals Policy",
+            "New Pension Scheme",
+            "LTC Grievances",
+            "Leave Rules",
+            "General",
+            "Disciplinary Cases",
+            "Deptl. Accommodation Grievances",
+            "Departmental Canteen Services",
+            "CPF GPF Matter",
+            "Complaint against Officers and Unit Functioning",
+            "Civil Works and Contract",
+            "CHSS Medical Facility",
+            "Appointment and Recruitment",
+            "CR/APAR",
+            "ACP MACP",
+            "NCSC",
+            "PWD",
+            "EX-SERVICE MAN"
+        ]
+    },
+    {
+        "parent": "Department of Social Justice and Empowerment",
+        "child": [
+            "Administration",
+            "Media, Monitoring and Social Auditing",
+            "Finance related matter",
+            "Matters related to Commissions",
+            "Educational Development",
+            "Social Defence",
+            "Social Empowerment",
+            "Economic Empowerment",
+            "Social Protection",
+            "Matters related to Autonomous Bodies",
+            "Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Department of Administrative Reforms and Public Grievances - PG Division",
+        "child": [
+            "Public Grievance Reforms Related",
+            "Public Grievance Policy Related",
+            "Technical issues related to CPGRAMS",
+            "e-Office Related",
+            "Central Secretariat Manual of Office Procedures (CSMOP) Related",
+            "Administrative Matters Related",
+            "Procurement Related",
+            "Grievance Related to Exposure Visits",
+            "Regional Conferences Related",
+            "e-Maximum Governance and Minimum Government"
+        ]
+    },
+    {
+        "parent": "O/o the Comptroller & Auditor General of India",
+        "child": [
+            "Employee/Pensioner of IA&AD",
+            "Grievance pertaining to State Govt. Employees/ Pensioners if pending in PAGs/AGs offices"
+        ]
+    },
+    {
+        "parent": "Department of Financial Services (Pension Reforms)",
+        "child": [
+            "Atal Pension Yojana",
+            "National Pension System (NPS)",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Department of Military Affairs",
+        "child": [
+            "MES (less civilian)",
+            "Others",
+            "Army",
+            "HQ IDS/HQ ANC",
+            "Air Force",
+            "Navy",
+            "Tri Service Policy on Pay and Allowances"
+        ]
+    },
+    {
+        "parent": "Department of Defence",
+        "child": [
+            "Defence Land and Cantonment Board related",
+            "Border Roads Organization / GREF",
+            "Sainik School related",
+            "Canteen Stores Depot related",
+            "Military Engineering Services related",
+            "Training and Education in Defence Institutes (NCC/ Rashtriya Military School)",
+            "armed forces tribunal related",
+            "indian coast guard related",
+            "Secretariat Establishment and  Service Matters(Civilians only)",
+            "Military Hospital/ Medical",
+            "Others/ Miscellaneous",
+            "Capital Procurement in Armed Forces related",
+            "Ceremonials ( Independence /Republic Day)",
+            "Vigilance related matters",
+            "International relations related issues"
+        ]
+    },
+    {
+        "parent": "Ministry of Steel",
+        "child": [
+            "Ministry related",
+            "CPSEs related"
+        ]
+    },
+    {
+        "parent": "Department of Science and Technology",
+        "child": [
+            "Removed/ Retrenched Employee/ Service Matter/ Transfer/ Compassionate Appointment/ other",
+            "Fellowship/ scholarship/ mentorship/ Internship/ faculty/Awards related",
+            "Issues related to Maps/ Administrative Boundaries/ Toponomy/ Geospatial Services",
+            "Atlas and Thematic Mapping/ Geographic Researches/ GIS/ GPS related",
+            "Various Schemes/ Programmes of Department of Science and Technology",
+            "Allegation of Corruption/Malpractices",
+            "Allegation of Harassment/ Atrocities",
+            "Miscellaneous (Invention/ Research Study/ Suggestions/ Other)",
+            "Contractual Manpower related- Wages, PF, ESI, Engagement, Extension",
+            "Pension/ Family Pension/ PF and Gratuity Related"
+        ]
+    },
+    {
+        "parent": "Department of Heavy Industry",
+        "child": [
+            "Ministry Administration, Purchase and Procurement related",
+            "All matters related to CPSEs",
+            "Projects or Schemes related",
+            "Others",
+            "All matters related to Autonomus bodies"
+        ]
+    },
+    {
+        "parent": "Ministry of Mines",
+        "child": [
+            "MINERAL EXPLORATION AND CONSULTANCY LTD-MECL",
+            "GEOLOGICAL SURVEY OF INDIA-GSI",
+            "INDIAN BUREAU OF MINES-IBM",
+            "NATIONAL ALUMINIUM COMPANY LIMITED-NALCO",
+            "HINDUSTAN ZINC and BHARAT GOLD MINES LIMITED",
+            "HINDUSTAN COPPER LIMITED-HCL",
+            "JAWAHARLAL NEHRU ALUMINIUM RESEARCH DEVELOPMENT AND DESIGN CENTRE and NATIONAL INSTITUTE OF ROCK MECHANICS",
+            "REVISION CELL MINISTRY OF MINES",
+            "VIGILANCE MINISTRY OF MINES",
+            "PAY and ACCOUNT MINISTRY OF MINES",
+            "ESTABLISHMENT MINISTRY OF MINES",
+            "INFORMATION TECHNOLOGY MINISTRY OF MINES",
+            "INTERNATIONAL COOPERATION MINISTRY OF MINES",
+            "CASH MINISTRY OF MINES",
+            "DISTRICT MINERAL FOUNDATION",
+            "AUCTIONS",
+            "MINES and MINERAL POLICY and ILLEGAL MINING",
+            "MMDR ACT and RULES and LEASE",
+            "NATIONAL MINERAL EXPLORATION TRUST-NMET",
+            "OTHER"
+        ]
+    },
+    {
+        "parent": "Ministry of New and Renewable Energy",
+        "child": [
+            "Solar Division",
+            "Wind Division",
+            "Biogas Division",
+            "Biomass Division",
+            "Waste to Energy",
+            "National Hydrogen Mission",
+            "Small Hydro",
+            "Administration Division",
+            "Vigilance",
+            "Green Energy Corridor",
+            "Planning and Cordination",
+            "information technology  Cell",
+            "Research and Development",
+            "HRD and Training Including ITEC innovation Centre",
+            "Parliament Divison",
+            "International Relations",
+            "International Solar aliance",
+            "Energy Storage",
+            "Ocean, Tidal Energy",
+            "Subordinate Office / Autonomous Bodies",
+            "Subordinate office / Public Sector Undertakings",
+            "Budget",
+            "Information and Public Awareness"
+        ]
+    },
+    {
+        "parent": "Department of Bio Technology",
+        "child": [
+            "Establishment",
+            "Administration",
+            "Vigilance",
+            "Finance",
+            "Any Others",
+            "Schemes Related",
+            "HRD Schemes",
+            "Administration NIAB",
+            "Administration NABI",
+            "Administration CDFD",
+            "Administration NBRC",
+            "Administration ILS",
+            "Administration NII",
+            "Administration NCCS",
+            "Administration BIBCOL",
+            "Administration IVCOL",
+            "Administration BIRAC",
+            "Administration IBSD",
+            "Administration NIPGR",
+            "Administration RGCB",
+            "Administration THSTI",
+            "Administration RCB",
+            "Administration NIBMG",
+            "Administration CIAB",
+            "Administration inStem"
+        ]
+    },
+    {
+        "parent": "Ministry  of Coal",
+        "child": [
+            "Coal Block Related",
+            "Sustainability and Development Projects Related",
+            "Coal Production Monitoring and Distribution",
+            "Nominated Authority",
+            "Economic Affairs Section",
+            "IFD Division",
+            "Estabilishment Division and BA sections",
+            "Statistical Division Related",
+            "Clean Coal Technolgy (CCT) related",
+            "Mine Plan and Safety Related",
+            "Personnel and Administration",
+            "Corporate Affairs",
+            "Corporate Social Responsibility and Employee Welfare",
+            "Vigilance",
+            "Parliament",
+            "Coal Mine Provident Fund",
+            "Finance Related(cash section)",
+            "Land Infrastructure Development Related",
+            "International Cooperation",
+            "Technical",
+            "Materials Management and sales related",
+            "Security related",
+            "Medical related",
+            "Civil and Administration related",
+            "Others",
+            "Environment Related"
+        ]
+    },
+    {
+        "parent": "Unique Identification Authority of India",
+        "child": [
+            "Non Enrolment and Non Generation of Aadhaar",
+            "Non Updation of AADHAAR",
+            "Enrolment Center and Operator related Issues",
+            "Helpdesk related issues",
+            "Corruption cases",
+            "Aadhaar Number related Issues",
+            "Non Receipt of Aadhaar Letter",
+            "Non Receipt of Aadhaar PVC card",
+            "Linking of Aadhaar related issues",
+            "Policy Suggestions",
+            "UIDAI website related issues",
+            "Authentication Issues",
+            "Aadhaar Data Security/ Enforcement",
+            "Establishment /HR",
+            "Misc",
+            "COVID-19 Related Issues",
+            "Subsidy Related Issues"
+        ]
+    },
+    {
+        "parent": "Department of Youth Affairs",
+        "child": [
+            "Administration Related",
+            "General Related",
+            "Vigilance Related",
+            "Nehru Yuva Kendra Sangathan",
+            "Rajiv Gandhi National Institute of Youth Development",
+            "Scouts and Guides",
+            "Policy Related",
+            "International Co-operation Related",
+            "National Service Scheme Related",
+            "Hindi Related",
+            "Youth Hostels Related",
+            "National Programme for Youth and Adolescent Development"
+        ]
+    },
+    {
+        "parent": "Department of Sports",
+        "child": [
+            "Sports Federations Related",
+            "Sports Control Board (SCB)",
+            "National Sports Development Fund (NSDF)",
+            "National Sports University (NSU) in Manipur",
+            "International Cooperation",
+            "Vision India",
+            "Mission 11 Million Programme",
+            "RSFs and their policy issues",
+            "National Sports Development Code of India (NSDCI), 2011",
+            "Indian Olympic Association",
+            "Paralympics Committee of India",
+            "Multi-disciplinary Sports Events",
+            "Special Cash Awards to medal winners in International events and their coaches.",
+            "Scheme of Pension to meritorious sportspersons.",
+            "Padma Award.",
+            "Pandit Deendayal Upadhyay National Welfare Fund for sportspersons.",
+            "National Sports Awards",
+            "SAI Work",
+            "NADA matters-anti-doping issues",
+            "NDTL matters-Dope testing related issues.",
+            "Lakshmibai National Institute of Physical Education (LNIPE), Gwalior",
+            "Setting up of National Institute of Sports Coaching",
+            "Residual matters of CWG 2010",
+            "Republic Day Tableau of the Department",
+            "All India Council of Sports (AICS)",
+            "Grants to new sports bodies",
+            "Matters relating to unrecognized federations.",
+            "Seeking recruitment under Sports quota",
+            "Appointment as members in Committees/Governing Bodies.",
+            "Matters related to National Games.",
+            "Khelo India Scheme.",
+            "Himalayan Region Sports Festival",
+            "National Playing Fields Association of India (NPFAI)",
+            "All residual matters relating to PYKKA, RGKA and USIS",
+            "Geo tagging of sports infrastructure.",
+            "Non-Governmental National / International Organizations on matters related to Khelo India Scheme.",
+            "Funds provided for Technical Support and Building Service  under Khelo India Scheme",
+            "Scheme of Sports and Games for Persons with disabilities",
+            "Sports infrastructure under Prime Minister Package  in J and K and Laddakh",
+            "Special Package for enhancement of sports infrastructure in J and K",
+            "Matters related to Ek Bharat Shrestha Bharat",
+            "Fit India Movement",
+            "Asset Monetization",
+            "Legacy use of sports infrastructure created during Commonwealth Games",
+            "Request related to",
+            "Para sports in respect of sports disciplines",
+            "Verification of certificates issued by the Federations/Associations."
+        ]
+    },
+    {
+        "parent": "Department of Defence Research and Development",
+        "child": [
+            "Product Delivery",
+            "Suggestions and Query",
+            "Harrrasment and misbehaviour related",
+            "Contractual Employees related matters",
+            "Estates and Work related issues",
+            "Pension related",
+            "Compassionate Appointment",
+            "Recruitment issues related to Department of Defence R&D",
+            "DRDO Hqr Interface/ Intervention",
+            "Complaints against officials"
+        ]
+    },
+    {
+        "parent": "Ministry of Statistics and Programme Implementation",
+        "child": [
+            "Contractual Employee Related",
+            "MPLAD Scheme",
+            "Pension Cases",
+            "Grievances related to Indian Statistical Institute",
+            "Service Matters",
+            "Economic Census Related",
+            "Other matters",
+            "Grievance related to Indian Statistical Service"
+        ]
+    },
+    {
+        "parent": "Department of Space",
+        "child": [
+            "Pension/ Retirement benefits Related",
+            "Recruitment related",
+            "Policy matters related",
+            "Procurement related",
+            "Employees Service Related",
+            "Student related",
+            "JRF/SRF/RA/RS/Apprentice",
+            "Contract/Outsourced employees",
+            "Space Programmes / ISRO missions",
+            "Covid-19",
+            "Others",
+            "Allegations of Corruption/ Misconduct/malpractice/ related to Financial irregularities"
+        ]
+    },
+    {
+        "parent": "Department of Pharmaceutical",
+        "child": [
+            "Pradhan Mantri Bharathiya Jan Aushadhi Pariyojana (PMBJP) - Pradhan Mantri Bharathiya Jan Aushadhi Kendras (PMBJKs)",
+            "Schemes related",
+            "National Pharmaceutical Pricing Authority (NPPA) related",
+            "National Institute of Pharmaceutical Education and Research (NIPER) - Student related matters",
+            "Policy",
+            "Medical Devices",
+            "Administration/ Establishment",
+            "Allegation of Corruption",
+            "Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Department of Defence Production",
+        "child": [
+            "Service Matter",
+            "Pension Matters",
+            "Land Issues",
+            "Workplace matters related to Harassment",
+            "Vendor",
+            "Customer",
+            "Firm's Quality Assurance Inspection related",
+            "Legal Matter/Judiciary",
+            "Implementation of Schemes",
+            "Allegation of Corruption/ Malpractices",
+            "Miscellaneous Matters"
+        ]
+    },
+    {
+        "parent": "Ministry of Minority Affairs",
+        "child": [
+            "Scholarship Scheme",
+            "Anglo Indian Matters",
+            "Maulana Azad National Fellowship Scheme",
+            "Padho Pardesh Scheme",
+            "Begum Hazrat Mahal National Scholarship",
+            "Nai Udaan Scheme",
+            "Usttad Scheme",
+            "Naya Savera Free Coaching and Allied Scheme",
+            "Hamari Dharohar Schme",
+            "Nai Roshni Scheme",
+            "Nai Manzil Scheme",
+            "Seekho Aur Kamao Scheme",
+            "PM Vikas Scheme",
+            "National Minority Development and Finance Corporation matters",
+            "Pradhan Mantri Jan Vikas Karyakram Scheme",
+            "Jiyo Parsi Scheme",
+            "Shahari Waqf Sampatti Vikas Yojna",
+            "Qaumi Waqf Board Taraqqiati Scheme",
+            "Research Studies, Monitoring and Evaluation of Development Schemes including Publicity",
+            "Maulana Azad Education Foundation Matters",
+            "15 Point Programme",
+            "Sachar Committee Report",
+            "Haj Management",
+            "Dargah Matters",
+            "Madarsa Education Scheme",
+            "Establishment Matters",
+            "General Admn",
+            "Coordination Matters",
+            "Budget Matters",
+            "Institutional Management (IM) Division",
+            "Commissioner for Linguistic Minorities in India (CLM)",
+            "Vigilance Matters",
+            "Waqf Matters",
+            "National Commission for Minorities",
+            "Haj Committee of India",
+            "Dargah Khawaja Sahib, Ajmer",
+            "Central Waqf Council",
+            "CLM MOMA",
+            "National Waqf Development Corporation Limited",
+            "Maulana Azad Education Foundation",
+            "National Minority Development and Finance Corporation"
+        ]
+    },
+    {
+        "parent": "Ministry of Skill Development and Entrepreneurship",
+        "child": [
+            "Scheme (Pradhan Mantri Kaushal Vikas Yojana)",
+            "Establishment",
+            "Matters related to Directorate General of Training (DGT)",
+            "Cyber Security related",
+            "Information related",
+            "Jan Shikshan Sansthan related",
+            "National Apprenticeship Promotion Scheme (NAPS) related",
+            "General Administration and LOGO related"
+        ]
+    },
+    {
+        "parent": "Ministry of Panchayati Raj",
+        "child": [
+            "Corruption Related to Panchayats",
+            "Panchayat Development Related  Matter",
+            "Harassment Related with Panchayats",
+            "e Gram Swaraj",
+            "Panchayat Election",
+            "Svamitva Scheme",
+            "Establishment and General Administration  matters related to Ministry of Panchayati Raj",
+            "Capacity Building of Elected Representatives of Panchayats",
+            "Fiscal Devolution",
+            "PESA",
+            "Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Department for Promotion of Industry and Internal Trade",
+        "child": [
+            "Approvals/Registration/Renewal/Updation",
+            "Exemptions/Benefits/Susidy",
+            "Violation of Policy/Acts/Rules",
+            "Admission",
+            "Recruitment",
+            "Pension/Pensioners/Retirement",
+            "Administration/Employee",
+            "Corruption/Malpractice/Harassment",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Ministry of Tribal Affairs",
+        "child": [
+            "ST Welfare Funds",
+            "Tribal Culture",
+            "Tribal Schools",
+            "Minor Forest Produces and Tribal Products",
+            "Tribal Development",
+            "Scheduled Areas",
+            "Tribal Groups",
+            "NGOs/Voluntary Organisations",
+            "Tribal Land and Resources",
+            "Staff Related Grievances",
+            "ST Related Data",
+            "Tribal Policy",
+            "Finance Related Matters",
+            "Procurement of Goods and Services and Meetings Conducted",
+            "Rights and Safeguards for STs",
+            "Tribal Guests"
+        ]
+    },
+    {
+        "parent": "Department of Agriculture Research and Education",
+        "child": [
+            "Administrative",
+            "Pension",
+            "Scheme and Policy",
+            "Scientific  and Technical Matters",
+            "Agriculture Education and Training",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Department of Legal Affairs",
+        "child": [
+            "Pension",
+            "Compassionate Appointment",
+            "Fixation of Pay",
+            "Appointment of Members in ITAT",
+            "Commercial Court Act, 2015",
+            "Law Commission of India",
+            "The Advocate Act 1961",
+            "The Advocates Welfare Fund Act 2001",
+            "The Advocates Protection Act",
+            "Law Officers Opinion",
+            "Advice",
+            "Appointment of contractual MTS",
+            "Fixation of pension of MTS",
+            "Non-payment of vendors",
+            "Issue of Notary License",
+            "Renewal of Notary License",
+            "ILS Service Matter",
+            "Amendment in Recruitment Rule of ILS",
+            "General Central Service Matter (GCS)",
+            "Vigilance matter",
+            "Transfer Travelling Allowance",
+            "Retainers fee",
+            "Appointment of Standing Council",
+            "Court Case",
+            "Engagement of Law Officers/ approved Panel Counsels for various cases.",
+            "Payment of the fee bills of Counsels pertaining to Central Government and other participating Departments/ States",
+            "Pension matter of Income Tax Appellate Tribunal (ITAT)",
+            "Corruption at Benches of Income Tax Appellate Tribunal (ITAT)",
+            "Complaint regarding appointment of members in  Income Tax Appellate Tribunal (ITAT)",
+            "Complaint  regarding functioning of Benches in  Income Tax Appellate Tribunal (ITAT)"
+        ]
+    },
+    {
+        "parent": "Department of Commerce",
+        "child": [
+            "Export import related",
+            "Administrative Matters Department of Commerce",
+            "Special Economic Zones related",
+            "Supply Division related matters",
+            "Vigilance Department of Commerce",
+            "Pay and Accounts Offices Department of Commerce",
+            "Matters concerned to Attached Subordinate Autonomous Bodies Boards Institution etc",
+            "Other issues"
+        ]
+    },
+    {
+        "parent": "Legislative Department",
+        "child": [
+            "Constitution uploaded on India Code Portal",
+            "Acts uploaded on India Code Portal",
+            "Drafting of laws",
+            "Office of Profit",
+            "Preamble of the Constitution of India",
+            "Obtaining assent of the President of India on the Bill passed by the Parliament",
+            "Repealing and amending exercise of redundant and obsolete laws",
+            "Election Laws",
+            "Procurement",
+            "RTI",
+            "India Code Portal",
+            "Constitution of India",
+            "Central Acts",
+            "Rules and Regulations",
+            "making of Corrigendum",
+            "Payment to private entities",
+            "Publication and Sales",
+            "Chief Election Commissioner/ Election Commissioner appointment",
+            "Pension related",
+            "Recruiitment related grievance"
+        ]
+    },
+    {
+        "parent": "Ministry of Development of North Eastern Region",
+        "child": [
+            "Employee related",
+            "Allegation of Corruption",
+            "Implementation of Schemes",
+            "Recruitment related",
+            "CPSEs related",
+            "Suggestion"
+        ]
+    },
+    {
+        "parent": "Ministry of Water Resources, River Development & Ganga Rejuv",
+        "child": [
+            "Establishment Matters",
+            "General Administration",
+            "State Projects or Schemes related",
+            "E-Governance",
+            "Infrastructure Development",
+            "Information Education and Communication (IEC)",
+            "Issues related to Rivers",
+            "Floods",
+            "Inter Governmental Water Treaty",
+            "Ground Water",
+            "Rain Water Harvesting",
+            "Agriculture and Irrigation",
+            "Water Resources Development and Management",
+            "Dam Related Rehabilitation Issues",
+            "Externally Aided Projects",
+            "NPCC Related",
+            "WAPCOS Related",
+            "Board Related",
+            "Narmada Control Authority Related",
+            "National Institute of Hydrology Related",
+            "OTHERS",
+            "Census of Minor Irrigation"
+        ]
+    },
+    {
+        "parent": "Ministry of Culture",
+        "child": [
+            "Archeological survey of india related matters",
+            "Artist Pension Scheme and other Financial Assistance for promotion of Art and Culture",
+            "Schemes of Scholarship and fellowship",
+            "Zonal Cultural Centres",
+            "Buddhist and Tibetan Arts related matters",
+            "AKADEMIES related matters ( National School of Drama, Sahitya Akademi, Sangeet Natak, Manuscipt, Classical Language, etc",
+            "Commomoration/ Birth Anniversaries, National Memorials, Dictionary of Martyrs related Matters",
+            "Development of Libraries",
+            "Archives, Manav Sanghralaya, Asiatic Society, Nehru Memorial, Prime Minister Museum related matters",
+            "Pension related matters of retired employees from main Secretariat of the Ministry",
+            "General Administration related matters",
+            "Museum related matters",
+            "Other Museums related matters eg NCSM, NRLC, VMH",
+            "UNESCO and National Monument Authority related matters",
+            "International Cultural Relation Issues",
+            "Gandhi Heritage Site Mission",
+            "Azadi ka Amrit Mahotsav",
+            "Vigilance related matters"
+        ]
+    },
+    {
+        "parent": "Ministry of Textiles",
+        "child": [
+            "Fibre Related",
+            "Education/ Skill Development Related",
+            "Subsidy Related",
+            "Infrastructure Related",
+            "Export related",
+            "Economic/ Statistics Related",
+            "Miscellaneous",
+            "Vigilance",
+            "Research and Development",
+            "Administration",
+            "Public sector undertaking"
+        ]
+    },
+    {
+        "parent": "Department of Investment & Public Asset Management",
+        "child": [
+            "Admin Related Issues",
+            "Disinvestment Related Issues",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Ministry of Electronics & Information Technology",
+        "child": [
+            "Establishment/Service Matters",
+            "Corruption",
+            "Purchase/Procurement",
+            "Information Technology Act 2000/Cyber Security",
+            "Digital Services (CSC/MyGov/NeGD/NIC)",
+            "Digital Transactions/UPI Transactions",
+            "Projects/Schemes/Policies",
+            "Internet Governance/IP/DNS",
+            "Start-Ups Support Initiatives",
+            "Personal Data Protection Bill, 2019",
+            "Electronics Manufacturing/ Semi Conductor Policies",
+            "Official Language Act, 1963/Official Language Rules, 1976",
+            "National Language Translation Mission and BHASHINI",
+            "IT/ITeS",
+            "Personal Identity Documents Related",
+            "OTHERS",
+            "NIC State Projects",
+            "eCommerce"
+        ]
+    },
+    {
+        "parent": "Department of Animal Husbandry, Dairying",
+        "child": [
+            "Administration Related",
+            "Trade Related",
+            "Animal Welfare",
+            "Cattle and Dairy Development",
+            "National Livestock Mission",
+            "Livestock Health",
+            "Livestock Census and Integrated Sample Survey Related",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Ministry of Micro Small and Medium  Enterprises",
+        "child": [
+            "Employee related (pension PPO, Gratuity, Leave and Other)",
+            "Corruption/Vigilance related",
+            "Schemes",
+            "Policy Matter",
+            "Loan/ Subsidy and Delayed Payment Related",
+            "Others/ Suggestions"
+        ]
+    },
+    {
+        "parent": "Department of Empowerment of Persons with Disabilities",
+        "child": [
+            "Policy and Act related Matter",
+            "Scholarship Scheme for SwDs",
+            "Deendayal Disabled Rehabilitation Scheme",
+            "District Disability Rehabilitation Centres",
+            "Chief Commissioner for Persons with Disabilities",
+            "National Institute",
+            "National Handicapped Finance and Development Corporation",
+            "Artificial Limbs Manufacturing Corporation of India",
+            "Scheme of Assistance to Disabled Persons for Purchase and Fitting of Aids and Appliances ADIP Scheme)",
+            "National Awards For The Empowerment Of Persons With Disabilities"
+        ]
+    },
+    {
+        "parent": "Ministry of Power",
+        "child": [
+            "SJVN Limited",
+            "NEEPCO",
+            "NHPC LIMITED",
+            "CEA",
+            "THDCIL",
+            "PGCIL",
+            "BBMB",
+            "APTEL",
+            "CERC",
+            "EESL",
+            "REC  Limited",
+            "BEE",
+            "PFC",
+            "CPRI",
+            "NTPC Limited",
+            "DVC",
+            "Ministry of Power ( Head Office)",
+            "NPTI"
+        ]
+    },
+    {
+        "parent": "Department of Chemicals and Petrochemicals",
+        "child": [
+            "Chemical Related",
+            "Petrochemical Related",
+            "Public Sector Undertakings (PSUs) related",
+            "Autonomous Bodies (ABs) related",
+            "Bhopal Gas Tragedy related",
+            "Adminstration related matters pertaining to Department of Chemicals and Petrochemicals",
+            "Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Department of Land Resources",
+        "child": [
+            "Administration and Coordination related issues - Employee/Ex-Employee related matter",
+            "Land Regulation related matters",
+            "Watershed Management related matters"
+        ]
+    },
+    {
+        "parent": "Department of Public Enterprises",
+        "child": [
+            "Related to DPE's policies/ guidelines",
+            "Related to Central Government employee",
+            "Allegation of corruption/ malpractice on emloyee/ official of D/o Public Enterprises",
+            "Allegation of corruption/ malpractice on official of Central Public Sector Enterprise (CPSE)"
+        ]
+    },
+    {
+        "parent": "Ministry of Food Processing Industries",
+        "child": [
+            "Scheme Related",
+            "Non Scheme related",
+            "Institutes Related matter",
+            "Any other miscellaneous matter"
+        ]
+    },
+    {
+        "parent": "Department of Health Research",
+        "child": [
+            "Alternative System of Medicine",
+            "Viral Research Diagnostic Laboratory",
+            "Related to ART and Surrogacy",
+            "MRUs and MRHRUs",
+            "General Admin",
+            "Establishment",
+            "HTAIn",
+            "Ethics Committee Registry",
+            "Grant-in-Aid Scheme",
+            "Human Research Development Scheme",
+            "Public Health",
+            "Hospitals"
+        ]
+    },
+    {
+        "parent": "Department of Economic Affairs ACC Division",
+        "child": [
+            "Administration Related",
+            "Vigilance Matters",
+            "Indian Economic Service (IES) Cadre related Matters",
+            "Investment Related Matters",
+            "Small Savings Scheme Agent Related matters",
+            "Investment in Other Bonds",
+            "Foreign Exchange Management Act (FEMA)",
+            "SEBI / SAT administrative matters",
+            "Coin related Matters",
+            "Currency related matters",
+            "SPMCIL (CPSE) related matters",
+            "Miscellaneous Matters",
+            "Matters relating to Small Savings Scheme",
+            "Matters relating to Securities Market"
+        ]
+    },
+    {
+        "parent": "Department of Expenditure",
+        "child": [
+            "Allowance",
+            "Salary and allowance revision",
+            "Pay related Matters",
+            "Pension/ Retirement",
+            "Indian Cost Account Service",
+            "Payment",
+            "Indian Civil Accounts Service",
+            "Pay Upgradation",
+            "Creation of posts",
+            "Cadre Review",
+            "Policy matters of Expenses",
+            "Administrative matters",
+            "Government Rules",
+            "Procurement",
+            "Funds to Schemes",
+            "Finance Commission",
+            "Other Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Department of Fisheries",
+        "child": [
+            "Administration related",
+            "Trade related",
+            "Inland fisheries",
+            "Marine fisheries",
+            "Fisheries Regulatory Framework",
+            "Fisheries Infrastructure Development Fund",
+            "PMMSY matters",
+            "KCC matters",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Ministry of Cooperation",
+        "child": [
+            "Central Registrar and Cooperative Society",
+            "Cooperative Development",
+            "Administration and CET",
+            "Primary Agriculture Cooperative Society PACS",
+            "Others"
+        ]
+    },
+    {
+        "parent": "NITI Aayog",
+        "child": [
+            "Administration and Establishment Matters",
+            "Rural Development Schemes related",
+            "Accounts related",
+            "Library related",
+            "Policy",
+            "Financial Assistance and use of NITI Aayog",
+            "General administration",
+            "Employment and Skill Development",
+            "Industry matters",
+            "Projects",
+            "Translation work related to Hindi",
+            "Health matters",
+            "Women Empowerment Child development and  Nutrition matters",
+            "special category status to states",
+            "Reports",
+            "Scheduled Caste Scheduled Tribe Minorities Persons with Disabilities Other Backward Classes and other vulnerable groups",
+            "Water related matters",
+            "Land related matters",
+            "Agriculture",
+            "Technical and Secretarial  works",
+            "Housing and Urban sector  schemes",
+            "Pension  and Family Pension of  the staff of NITI Aayog and DMEO",
+            "Annual Performance  Appraisal Report of the staff of NITI Aayog and DMEO",
+            "Complaints regarding vigilance matter",
+            "Tourism",
+            "Culture",
+            "Panchayati Raj",
+            "Information and  Broadcasting",
+            "NGO Darpan",
+            "Matters related to  Aspirational Districts Programme",
+            "Defence  related",
+            "Home Affairs",
+            "Platforms",
+            "Frontier Technology",
+            "Economic and Finance  Matters",
+            "National Institute of Labour Economics Research and Development",
+            "Matters pertaining to Development Monitoring Evaluation Office",
+            "Matters relating to Atal Innovation Mission"
+        ]
+    },
+    {
+        "parent": "Ministry of Tourism",
+        "child": [
+            "Cheating and Misrepresentation",
+            "Poor Quality of Work /Service Related",
+            "Classification / Approval / Recognition",
+            "Harassment and Misbehavior",
+            "Delay In Payment of Dues / Accounts.",
+            "Refund of Booking",
+            "Incredible India Helpline /Website.1363",
+            "Schemes /Projects/ Proposals / Under Schemes of Ministry of Tourism.",
+            "Recruitment Related",
+            "Statistics / Surveys and Studies",
+            "Regional Level Tourist Guides (RLG) / Incredible India Tourist Facilitators (IITF) Certification Programme",
+            "Central Financial Assistance (CFA)",
+            "Human Resource Development/Eductional Institutes related matter (IHMs /Food Craft Institutes (FCIs) / NCHMCT / IITTM)",
+            "Vigilance matters concerning Head-office and Regional Offices",
+            "Miscellaneous / Others",
+            "Administration / All establishment matter",
+            "Niche Tourism- Cruise, Adventure, Medical and Wellness, Golf, Polo, MICE, Film, Sustainable Tourism",
+            "All Matters related to Purchase / CGHS / Housekeeping , Vehicles /CR Section /bills at HQ",
+            "Matter related to International Corporation",
+            "All matters related to ITDC",
+            "National Tourism Advisory Committee",
+            "National Tourism Policy - related to niche Tourism"
+        ]
+    },
+    {
+        "parent": "Ministry of Environment, Forest and Climate Change",
+        "child": [
+            "Administrative and service matter related",
+            "Environment related",
+            "Forest and trees related",
+            "Forest Research and  Training related",
+            "Indian Forest Service (IFS) related",
+            "National Afforestation  and Eco- Development Board (NAEB) related",
+            "Wildlife related",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Department of Agriculture and Farmers Welfare",
+        "child": [
+            "Plant Protection Matters",
+            "Policy related matters",
+            "MSP related Issues",
+            "RKVY ISSUES",
+            "Employees related matters",
+            "Matter relating to Agriculture Marketing",
+            "Seeds related issues",
+            "Crop Insurance Scheme",
+            "Agriculture Credit",
+            "PMKISAN related issues",
+            "Natural Clamity Draught related issues",
+            "Horticulture related issues",
+            "Official Language related matters",
+            "Organic farming and fertilizers issues",
+            "International Agreements",
+            "Crops related issues",
+            "Digital Agriculture issues",
+            "Machinery and Technology issues",
+            "Price Support System",
+            "Agriculture Census",
+            "Agricultural Extension activities and ATMA",
+            "Natural Resource Management",
+            "Oilseeds and Oil Palm issues",
+            "Rainfed Farming System",
+            "Vigilance related issues",
+            "Trade related issues"
+        ]
+    },
+    {
+        "parent": "Ministry of Earth Sciences",
+        "child": [
+            "Employee related  (MoES)",
+            "Others (MoES)",
+            "SAGE (Seismology and Geosciences)",
+            "Polar expedition  (PACER)",
+            "Research, Education, Training and Outreach (REACHOUT)",
+            "(OSMART) Ocean services, Modelling, Application, Resources and Technology",
+            "Atmospheric, Climate Science and Services (ACROSS)",
+            "Deep Ocean Mission (DOM)",
+            "NCMRWF (National Centre for Medium Range Forecasting)",
+            "NCS (National Center for Seismology)",
+            "INCOIS (Indian National Centre for Ocean Information Services)",
+            "NIOT (National Institute of Ocean Technology)",
+            "NCPOR (NATIONAL CENTRE FOR POLAR AND OCEAN RESEARCH)",
+            "IITM (Indian Institute of Tropical Meteorology)",
+            "CMLRE (Centre for Marine Living Resources and Ecology)",
+            "NCESS (National Centre for Earth Science Studies)",
+            "IMD (India Meteorological Department)"
+        ]
+    },
+    {
+        "parent": "Department of Official Language",
+        "child": [
+            "Central Secretariat Official Language Service (CSOLS) Related",
+            "Official Language Policy Related",
+            "Reports and Publication of Advertisement Related",
+            "Implementation of Official Language and Award related",
+            "All matters related to Patrika",
+            "Training Related",
+            "Technical cell related",
+            "Others"
+        ]
+    },
+    {
+        "parent": "Department of Scientific & Industrial Research",
+        "child": [
+            "All matters related to National Research Development Corporation (NRDC)",
+            "All matters related to Council of Scientific and Industrial Research (CSIR)",
+            "Industrial Research and Development Scheme (IRD) related",
+            "All matters related to Consultancy Development Centre (CDC)",
+            "All matters related to Central Electronics Limited (CEL)",
+            "Fiscal Incentive scheme related",
+            "Matters related to recognition of In house R and D units",
+            "DSIR Administration related",
+            "Matters related to Public Funded Research Institutes (PFRI)",
+            "Matters related to Scientific and Industrial Research Organizations (SIRO)",
+            "Matters related to Information Technology and e-Governance (IT-eG)"
+        ]
+    },
+    {
+        "parent": "Department of Fertilizers",
+        "child": [
+            "Matter related to Urea",
+            "Personnel Matters",
+            "Corruption",
+            "Phosphatic and Potassic Fertilizers",
+            "Joint Ventures",
+            "Supply of Gas related matter in Department of Fertilizers",
+            "Fertilizers Subsidy",
+            "Other"
+        ]
+    },
+    {
+        "parent": "Ayush",
+        "child": [
+            "Hospital Related",
+            "Ayush Schemes",
+            "College Permission & Admission",
+            "Ayush Education in National Institutes",
+            "Ayush Research",
+            "Ayush Drugs Policy",
+            "Covid- 19",
+            "Matters relating to the Employees of Ministry of Ayush and its Organizations",
+            "Lab & Pharmocopeia",
+            "Miscellaneous"
+        ]
+    },
+    {
+        "parent": "Ministry of Drinking Water and Sanitation",
+        "child": [
+            "Jal Jeevan Mission related(Rural)",
+            "Swachh Bharat Mission related(Rural)"
+        ]
+    },
+    {
+        "parent": "Food and Public Distribution",
+        "child": [
+            "Public Distribution System related",
+            "Sugarcane, Sugar and Edible Oil related",
+            "Establishment and Service Matters",
+            "Policy and Storage Related matters",
+            "Storage & Inspection Related",
+            "Other"
+        ]
+    },
+    {
+        "parent": "Shipping",
+        "child": [
+            "Administration matters for ministry and subordinate offices related",
+            "Indian Maritime University (IMU) related",
+            "Aids to navigation dues (Light dues)",
+            "Ports related",
+            "Matters related to Directorate General of Shipping (DGS)",
+            "Tariff fixation and Tariff Authority for Major Ports (TAMP) / Adjudicatory Board related",
+            "Others"
+        ]
+    }
+]
